@@ -1,1 +1,400 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+RoadMap 1 : 
+RoadMap 2 : 
+RoadMap 3 : 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 1 : 
+
+Key Responsibilities:
+
+Collaborate with research scientists and team members on daily development activities, focusing on custom model training, development, and optimization.
+Utilize PyTorch and TensorFlow for deep learning model implementation.
+Employ AWS services such as S3, Athena, and EC2 for efficient data storage, querying, and computation.
+Gain insights into data cleaning techniques, hypothesis testing, MLOps practices, and dashboard development for predictive models.
+Contribute to the in-depth understanding and application of deep learning and predictive modeling concepts.
+Supervised and Unsupervised Machine learning models.
+Good Proficiency in PyTorch and TensorFlow.
+Experienced in EDA on Large Datasets.
+Exposure with AWS S3, Athena, and EC2.
+Familiarity with deep learning/machine learning frameworks including scikit-learn.
+Knowledge of custom training and development of deep learning models.
+Skilled in Data cleaning and hypothesis testing.
+Good to have skills:
+Expertise in PyTorch.
+Previous internship experience in developing deep learning models.
+MLOps and Model Deployment.
+Dashboard development.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 2 : 
+Build models and frameworks to understand the opportunity size of Customer Engineering (CE) initiatives. Enable informed decisions, contribute to annual and quarterly objectives and key results setting.
+Build an understanding of the large, complex data sets used by CE and our partner teams. Work with engineering teams to plug gaps in logging and data infrastructure.
+Build data aggregation and analysis pipelines, designing new metrics, and creating dashboards and visualizations around them.
+Determine metric definition for each workstream to ensure alignment/rollup to team and organization objectives and key results.
+Improve experimentation velocity and analysis turnaround time through adoption of self-service tools such as RASTA.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 3 :
+
+
+Technical Skills:
+
+Relevant Experience Required: 2-6 years
+Proficient in Python programming language, ability to write robust code.
+Solid software engineering skills – familiarity with the Agile methodology, modern approaches (containerization and container orchestration), CI/CD pipelines.
+Familiarity with the Python Data Science stack – e.g., scikit-learn, Pandas, Tensorflow / Keras / PyTorch
+Hands on experience working on Unix/Linux environments.
+Hands on experience with building E2E ML pipeline – Business understanding, EDA, data preparation, modeling, and evaluation
+Experience with Azure – significant advantage
+Deep knowledge of math, probability, statistics, and algorithms – advantage
+Experience with Large Language/multi-modal models - advantage
+Outstanding analytical and problem-solving skills
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 4 : 
+
+1.1. Data pipeline
+1.2. Code optimization, incl. all relevant integration points
+1.3. Packaging
+1.4. Installation scripts
+1.5. Configuration items
+2. Map and evaluate MLOps gaps in the solution, develop solutions when required (CT/CM)
+2.1. Model monitoring (data/model drift)
+2.2. Model scheduling
+2.3. Model versioning
+2.4. Solution scaling
+2.5. Code refactoring
+3. Support ML-powered solutions implementations
+3.1. Model tuning, modifications and enhancements following user feedback.
+3.2. Quantitive value realization
+3.3. Collect requirements from the field.
+4. GenAI knowledge and practical experience
+5. Lead solution architecture activities and finalize with designated solution architect.
+6. When applicable, develop pre-production evaluation services.
+7. Lead application testing (UT, ST, FT, NFT) efforts.
+8. Design and support the solution’s CI/CD pipeline, including embedded automated tests.
+9. Extend and introduce new ML/ML Ops tools, libraries, and frameworks.
+10. Research and implement ML algorithms and tools.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 5 : 
+
+Requirements:
+Currently enrolled in or recent graduate of a relevant academic program.
+Strong analytical skills with attention to detail.
+Proficiency in data analysis tools such as Excel, SQL, or Python (preferred but not required).
+Excellent communication and teamwork skills.
+Ability to work independently and manage time effectively.
+
+
+
+
+Benefits:
+Hands-on experience in data analysis.
+Certificate of internship upon successful completion.
+Letter of Recommendation for future career prospects.
+Opportunity to contribute to real projects and build your portfolio.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 6 : 
+Forecasting, Classification, Data/Text Mining, NLP, Decision Trees, Adaptive Decision Algorithms, Random Forest, Search Algorithms, Neural Networks, Deep Learning Algorithms.
+Predictive & Prescriptive Analytics, Web Analytics, Parametric and Non-parametric models, Regression, Time Series, Dynamic/Causal Model, Statistical Learning, Guided Decisions, Topic Modelling
+Experience with data analytics - identifying trends, patterns, and outliers in large volumes of data.
+Ability to write robust code in Python, PySpark and Kubernetes, Docker, Spark.
+Familiarity with GCP, Real time data ingestion
+Propose data science solutions, EDA, Model Prototyping, Visualization of the data, Interpretation of the data, results based on the requirement analysis.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 7 : 
+Design, implement, and optimize sophisticated machine learning models. Your work will enable us to uncover meaningful patterns, trends, and insights from data, ultimately solving analytical use cases.
+Utilize sophisticated algorithms and methodologies to refine and improve the performance of our models, enabling accurate predictions and actionable outputs for analytical use cases.
+Stay updated on the latest machine learning advancements, actively identifying and integrating cutting-edge techniques to continuously improve our models and address diverse analytical use cases.
+Provide data-driven insights and recommendations that support decision-making processes and enable us to overcome analytical hurdles.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 8 : 
+Minimum of 2 years of hands-on experience as a Data Scientist, with a proven track record of working on machine learning models.
+Strong knowledge and understanding of machine learning techniques and algorithms, with practical applications in addressing analytical challenges.
+Proficiency in programming languages such as Python and R, along with hands-on experience in machine learning model development.
+Excellent problem-solving and analytical skills, with the ability to work on complex projects and deliver high-quality results.
+Strong communication skills, both written and verbal, with the ability to convey complex ideas to diverse stakeholders.
+Experience working on NLP, LLM and Gen AI use-cases is a plus. A track record of staying up to date with the latest advancements in NLP research and incorporating new techniques into practical applications.
+ 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 9 : 
+
+Hands-on experience with AI/ML toolkits such as PyTorch and Tensor Flow
+Expertise in cheminformatics / bioinformatics data analysis and large-scale data handling
+Experience in CADD
+Hands-on experience in use of issue tracking tools, source control, and build management
+High-level proficiency in scripting or programming languages such as Python, C++
+Experience in AWS AI Platform
+Efficient and flexible disposition, able to rapidly learn new fields and use data science and machine learning to improve decision making and workflows
+Ability to work in a Linux/Unix enterprise environment
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 10 : 
+Lead by example in the application of in silico technologies to small molecule drug discovery programs
+Champion and actively promote the use of cheminformatics, bioinformatics and AI/ML methods to expedite the Design-Make-Test-Analyze discovery cycle
+Proficiency in algorithm/workflow development, deployment and application in a global, multi-site Linux environment including cloud computing
+Design and implement scripts and/or visual programming workflows to automate data and compute intensive in silico design tasks
+Work cross-functionally with colleagues in Medicinal Chemistry, Structural Biology, Biophysics, Pharmacology, ADME/Tox, IT and other functions within interdisciplinary drug discovery teams
+Initiate and lead structure-based design projects in relevant therapeutic areas, collaborating with medicinal chemistry teams to optimize molecular design and protein targeting strategies.
+Experience in a wide range of computational chemistry techniques including similarity searching, SAR modeling, molecule enumeration, ligand-protein modeling and the application of modern machine learning tools to key problems in chemistry, biology, and drug design.
+Evaluate emerging computational and drug modalities and their application to drug discovery workflows
+Partner closely with Business stakeholders for identifying opportunities and pain areas and creating business use cases chain to drive tangible Value Creation in terms of Revenue, Cost and Productivity improvement
+Facilitate PoCs for potential use-cases and use Machine Learning and Deep Learning to develop / supervise development of self-correcting models and algorithms
+Ensure Partnering and Collaboration with Product Managers, Solution Architects and Service teams to industrialize AI / ML models and conduct rapid and iterative prototyping of minimum viable solutions
+Ensure continuous monitoring and optimization of algorithms to ensure best results 
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 11 : 
+Design and Develop data science solutions fairly independently to drive incremental value for the Anko. 
+ Collaborate with business functions to design and shape experiments to demonstrate data science-enabled advantage. 
+ Define best practices related to information architecture, including collection, integration, organization, analysis and visualization of data for data-enabled impact. 
+ Communicate findings to internal teams to enable business impact. 
+ Engage in data science practice development initiatives focused on building employee knowledge and skills in specific areas of expertise through coaching and development of training course material. 
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 12 : 
+Basic statistical literacy is a must - Concepts in probability, statistical distributions, inferential statistics. Hands on experience in simple techniques such as multiple linear regression and logistic regression is mandatory. 
+ Data Management Skills using SQL 
+ Basic understanding of Cloud (AWS, Azure, etc.). 
+ Experience in agile development methodologies 
+ Excellent programming skills in Python 
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 13 : 
+The data science team works under the purview of the Technology Excellence Group at Talentica Software. The goal of this team is to solve problems and build algorithms that are typically data driven. Hence, problems involving statistics, optimization, computer vision, machine learning, and natural language processing are of interest to this group.
+Extensive understanding of ML and statistical algorithms
+· Hands-on experience with use of standard machine learning libraries such as OpenCV, Tensorflow, Keras etc.
+· Big data experience and should have worked in SQl/NoSQL DBs like Mongo/Cassandra/PostgreSQL/Neo4J
+· Capability of converting PoC to production quality code and subsequent, deployment
+Here is what we are looking for in prospective candidates: Good to have
+· Credited courses focused on linear algebra, stochastic models, pattern recognition, design and analysis of algorithms, machine learning
+· Interest in applications of Deep learning like computer vision algorithms for video, shape recognition, matching & retrieval
+· Some exposure to statistical modeling
+Experience:
+· Should have worked in the industry for at least 2+ years.
+· Should like to work in a startup environment.
+· Should be capable of converting theory to practice by reading relevant papers.
+· Should be capable of conceiving original ideas and coding them as working algorithms.
+· Should have taken at least 2 products to production end-to-end.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 14 : 
+Essential Duties and Functions 
+
+ · Understand the business objective and directly participate in the delivery of data science solutions to solve business problems.
+ · Extract and analyze data: assessing quality, profiling, cleansing, exploratory data analysis and the transformation of large and complex datasets to be utilized for developing the statistical models. 
+
+· Design and develop different statistical modeling techniques such as regression, classification models, anomaly detection models, clustering models, deep learning models and feature reduction etc. to derive actionable insights.
+ · Build, test, validate models through various relevant methodologies, error metrics and calibration techniques.
+ · Validate the post-production model performance and calculate the ROI 
+
+· Work with cloud analytic platforms on AWS/ Azure using PySpark, Sagemaker, Snowflake, Azure Synapse Analytics, etc. 
+
+· Perform multiple tasks and deal with changing deadline requirements. This includes knowing when to escalate issues. Maintain a focused, flexible, organized, proactive and positive behavior and approach. 
+
+· Monitor the projects of Junior Data Scientists, and mentor and provide them guidance when needed.
+ · Proactively provide recommendations to the business based on the insights derived from data science modeling techniques to resolve business problems.
+ · Communicate data science models’ complex results and the insights to the non-technical audiences.
+ · Interact with cross-functional technical teams and multiple business stakeholders to support integration of data science solutions into the business processes.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 15 : 
+
+xperience, Qualifications, Knowledge, and Skills 
+
+ · Advanced degree in data science, statistics, computer science, or equivalent with a background in statistics. 
+
+· Experience with healthcare and/or insurance data is a plus.
+ · Proficiency in SQL, Python/R, NLP and LLM 
+
+· 3-5 years of relevant work experience including 5 years of experience in developing algorithms using data science technologies to evaluate data scenarios and future outcomes.
+ Competent in machine learning principles and techniques.
+ Experience with cloud-based data and AI solutions.
+ Familiarity with collaboration environments (e.g. Jupyter notebooks,gitlab ,github etc)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 16 : 
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 17 : 
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 18 : 
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 19 : 
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 20 : 
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 21 : 
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 22 : 
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 23 : 
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 24 : 
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 25 : 
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 26 : 
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 27 : 
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 28 : 
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 29 : 
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 30 : 
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 31 : 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Job description 32 : 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 33 : 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 34 : 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 35 : 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 36 : 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 37 : 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 38 : 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 39 : 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 40 : 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 41 : 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 42 : 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 43 : 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 44 : 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 45 : 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 46 : 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 47 : 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 48 : 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 49 : 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 50 : 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 51 : 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 52 : 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 53 : 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 54 : 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 55 : 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 56 : 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 57 : 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 58 : 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 59 : 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 60 : 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
