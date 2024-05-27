@@ -643,13 +643,49 @@ Job description 46 :
 • Passion, curiosity, solutions focus and independence
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 47 : 
+Experience: 5+Years
+
+NP : Immediate to 30 Days
+
+Location: Pune/Chennai/Hyderabad/Bangalore
+MLOPs Engineer:
+Python, ML concepts and frameworks, Fast API, Graph QL, AWS, ML Flow, AirFlow, ML pipeline creation, drift monitoring
+Strong understating of Python, ML concepts and frameworks, Fast API, Graph QL
+Experience in developing scalable APIs.
+Knowledge of AWS, preferred services are storage, EC2, Kubernetes
+Exposure of ML best practices, documentation and unit testing.
+ML Flow, AirFlow, ML pipeline creation, drift monitoring and control
+Experience in developing and deploying machine learning models in a production environment using CI/CD.
+Communicate with clients to understand requirements and ask right questions.
+Knowledge of Django and database design will be added advantage.
+Strong analytical and problem-solving skills.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 48 : 
+Model Deployment: Deploy ML models into production environments, ensuring reliability, scalability, and performance.
+Infrastructure Management: Set up and manage infrastructure for ML model deployment, including cloud services, containerization platforms, and orchestration tools.
+Continuous Integration and Deployment (CI/CD): Implement CI/CD pipelines for ML workflows, enabling automated testing, validation, and deployment of models.
+Monitoring and Logging: Develop monitoring and logging solutions to track the performance of deployed models, detect anomalies, and troubleshoot issues.
+Model Versioning and Governance: Establish processes for versioning ML models, tracking changes, and ensuring compliance with regulatory requirements.
+Scalability and Efficiency: Optimize ML model performance and resource utilization through techniques such as model serving optimization, batch processing, and distributed computing.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 49 : 
+Your Background:
+
+Bachelor’s degree + 5 years or Master's degree + 3 years of relevant experience or PhD degree in computer science, electrical engineering, or related field.
+#EXP[7-15]
+Practical experience with setting up and managing ML training and data pipelines in production.
+Solid knowledge in at least a few of the following tools: Docker, Kubernetes, Kubeflow, Airflow, Mesos, SLURM, MLFlow, Metaflow.
+Experience with data versioning tools like DVC.
+Familiarity with Infrastructure as Code (IaC) to define and deploy infrastructure.Strong software development skills in Python.
+
+Preferred Qualifications:
+
+Practical experience with Linux, version control systems (Git), build systems (Make, CMake, Autotools), and code review tools (Gerrit, Gitlab, Bitbucket).
+Knowledge in C/C++, JavaScript.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 50 : 
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 51 : 
 ---------------------
