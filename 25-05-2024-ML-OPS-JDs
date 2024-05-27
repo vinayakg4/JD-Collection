@@ -8,10 +8,28 @@ RoadMap 3 : https://dev.to/seattledataguy/mlops-and-machine-learning-roadmap-o7p
 
 Job description 1 : 
 
- Work closely with a cross functional team to serve business goals and objectives.
-• Develop, Implement and Manage MLOps in cloud infrastructure for data preparation,deployment, monitoring and retraining models
-• Design and build application containerisation and orchestrate with Docker and Kubernetes in AWS platform.
-• Build and maintain code, tools, packages in cloud
+Responsibilities
+• Building Standard ML models.
+• Python development within commercial scenarios.
+• Contribute to the development of a banking data platform, ensuring resilience and adaptability.
+• Facilitate collaboration with Data Engineering teams.
+• Advocate for data quality and observability across ML models and data systems.
+• Evaluate and implement new Data Science and AI tools, focusing on practical deployment and cost management.
+
+SKILLS
+
+Must have
+• Machine Learning experience,
+• Proficiency in SQL (MySQL, Postgres).
+• Productionizing Models.
+• Building Recommendation Engines.
+• Practical experience working with Customer Segmentation Algorithms.
+• AWS MLOps pipeline expertise.
+• NLP(Spark ML , AWS Connect, comprehend) experience.
+• Apache Airflow.
+• Experience with data lineage tools (i.e. openlineage) and/or with data catalogs (i.e. Amundsen).
+• General MLOps expertise (MLFlow).
+• Familiar with foundational data science concepts.
 
 
 
@@ -83,27 +101,16 @@ Experience in configuration management tools (Ansible, Terraform) and building C
 Job description 7 : 
 
 • Overall, more than 8 years of experience working as MLOps engineer
-
 • Design and implement cloud solutions, build MLOps on cloud (AWS, Azure, or GCP)
-
 • Build CI/CD pipelines orchestration by GitLab CI, GitHub Actions, Circle CI, Airflow or similar tools.
-
 • Communicate with a team of data scientists, data engineers and architect, document the processes.
-
 • Knowledgeable on agile practices.
-
 • ML Model Deployment: Assist in deploying machine learning models into production environments.
-
 • AI ML pipeline and model Monitoring: Contribute to the monitoring and maintenance of model performance and infrastructure health
-
 • Automation: Participate in the development and maintenance of automated MLOps pipelines
-
 • Collaboration: Collaborate with cross-functional teams to integrate machine learning models into production systems.
-
 • Documentation: Maintain documentation of MLOps processes and procedures.
-
 • Work closely with members of technology teams in the development, and implementation of Enterprise AI platform
-
 • Problem Solving: Assist in troubleshooting and resolving MLOps-related issues.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
