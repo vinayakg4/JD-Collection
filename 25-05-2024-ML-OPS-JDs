@@ -475,50 +475,175 @@ Job description 30 :
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 31 : 
-
+Candidate should be technically very strong into Machine Learning
+Good exposure into Devops Tools
+Experience in tools like Kubernetes, Jenkins, CI/CD
+Ability to work in a hybrid model
+Open to learn about different tech stacks,
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 32 : 
-
+● Education: Bachelor’s or Master’s degree in Computer Science, Data Science, Engineering, or a related field.
+● Professional Experience: Minimum of 6 years of experience in a role focusing on machine learning, data engineering, or software development, with at least 3 years dedicated to MLOps.
+● Technical Skills: ● Proficiency in Azure Machine Learning, Azure Data Factory, Azure Databricks, and other relevant Azure services.
+● Strong experience in automating and orchestrating ML workflows at scale.
+● Knowledge of Python, SQL, and other scripting languages commonly used in data processing.
+● Familiarity with containerization technologies such as Docker and orchestration tools like Kubernetes.
+● Experience with CI/CD tools and practices in a machine learning context.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 33 : 
+Responsibilities:
+• Collaborate with the team to deploy machine learning models.
+• Work on CI/CD infrastructure to allow experimentation, redirection, and quick updates on existing ML solutions.
+• Deploy models and infrastructure using tools and frameworks like TFX, Docker, MLFlow, etc.
 
+Requirements:
+• Currently pursuing or has completed a degree in Computer Science or related discipline.
+• Understanding of Machine Learning Operations and the tools required to deploy models.
+• Experience with MLOps.
+• Eager to learn and contribute to machine learning projects.
+
+Nice to Have:
+• Familiarity with GCP Vertex AI, Keras, and TensorFlow.
+• We feel this is a great opportunity to learn from experienced engineers and build cool things.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 34 : 
-
+We have open position Exp: 3+ yrs Notice period: Immediate to 15 Days Location: Hyderabad
+MLOps: Strong experience in MLFlow, MLflow Model Registry, Tensorflow and ONNX runtimes
+Strong knowledge of containerization technologies (Docker, Kubernetes) Build and maintain CI/CD pipelines for model deployment using AzureDevOps, Jenkins Experience in developing Infrastructure as code using Terraform 
+Experience in Implementing and manage monitoring and alerting systems to track model performance and address issues in real-time. 
+Proficiency in Python and experience with machine learning frameworks using TensorFlow, PyTorch
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 35 : 
-
+Automating AI/ML model deployment and Setting up monitoring for the ML pipeline
+- Automating CI/CD pipelines to account for data, code, and model changes
+- Programming, working knowledge of machine learning algorithms and frameworks, and domain knowledge
+- Querying and working with databases, testing ML models, Git and version control, frameworks like Flask, FastAPI
+- Proficiency in tools such as Docker and Kubernetes
+- Familiarity with experiment tracking frameworks such as MLflow
+- Setting up and automating data pipelines using tools such as Airflow, Kafka amd Rabbitmq
+- Providing best practices and executing POC for automated and efficient model operations at scale.
+- Good to have hands-on experience using large foundation models (e.g. LLMs) and associated tool chains (e.g. langchain) and APIs to build applications, tools and workflows for production.
+AWS MLOPS
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 36 : 
-
+Developingand maintaining ML systems built with open source tools (Kale)
+Facilitatethe development and deployment of proof-of-concept machine learning systems
+Previouswork with data drift & model drift
+Expertise on Kubernetes, Kafka, and/or docker
+Exposure to deep learning approaches and modelingframeworks (PyTorch, Tensorflow, Keras, etc.)
+Expert in using AWS or Azure ML tools (SageMaker/Azure ML etc.) [preferred
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 37 : 
+Responsibilities:
+
+3-5 years of experience in developing/working on MLOps systems,and an overall experience of 7 years in IT
+Expert on using Python to develop scripts for MLOps
+Experton cloud platform (Azure/AWS) developer environments
+Requirement
+
+Experiencein
+Designingdata pipelines and engineering infrastructure to support enterprise machinelearning systems at scale
+Organizingoffline models that data scientists build and turn them into a real machinelearning production system
+Developingand deploying scalable tools and services for our clients to handle machinelearning training and inference
+Understandingapplication of software engineeringrigor and best practices to machine learning, like CI/CD, automation,auditability, versioning, and data security (KubeFlow, MLFlow)
+Developingand maintaining ML systems built with open source tools (Kale)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 38 : 
-
+• Experience in designing, building, and maintaining ML data infrastructure, data pipelines, and data storage systems.
+• Proficiency in programming languages such as Python, Java, or Scala.
+• Experience in working with messaging systems such as Kafka and Confluent Kafka.
+• Experience in working with cloud platforms such as Azure and GCP.
+• Experience in working with databases such as Postgres and BigQuery.
+• Experience in implementing infrastructure as code using tools such as Terraform.
+• Experience in setting up data within Databricks to help data science teams to build and deploy AI models.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 39 : 
+• Develop comprehensive training materials and resources for MLOps, covering topics such as model deployment, monitoring, scaling, versioning, and continuous integration/continuous deployment (CI/CD).
+• Deliver engaging and interactive training sessions, workshops, and seminars to candidates.
+• Assess training needs and tailor programs to address specific skill gaps and learning objectives within our organization.
+• Provide one-on-one coaching and mentoring to candidates, offering personalized guidance and support to help them succeed in MLOps roles.
+• Stay current with the latest advancements in MLOps tools technologies, and best practices, and incorporate them into training programs as appropriate.
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 40 : 
+As a MLOps DevOps Engineer you will be responsible for
+• – Work with teams to design and build cloud hosted, automated pipelines that run, monitor, and retrain ML Models for business applications
+• – Design and implement Model and Pipeline validation procedures alongside teams of Data Scientists, Data Engineers and other ML Engineers
+• – Optimize and refactor development code so that it can be moved to production
+• – Assemble configurations and specifications to automatically build environments in production
+• – Demo new projects and features to stakeholders and team members
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 41 : 
+Strong knowledge of machine learning algorithms, deep learning frameworks, and data engineering principles
+Experience with ML platforms such as TensorFlow, PyTorch, or scikit-learn
+Proficient in programming languages like Python and/or R
+Experience with building and maintaining continuous integration/continuous deployment (CI/CD) pipelines for machine learning models
+Familiarity with cloud platforms like AWS, Azure, or Google Cloud
+Knowledge of containerization technologies like Docker and orchestration systems like Kubernetes
+Experience with version control systems like Git
+Strong problem-solving and troubleshooting skills
+Excellent communication and collaboration abilities
+Bachelor's or Master's degree in Computer Science, Data Science, or a related field
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Job description 42 : 
+Job description 42 :
+Job Description
+• Design, build, and refine machine learning (ML) and artificial intelligence (AI) models.
+• Implement MLOps practices to automate the deployment, monitoring, and maintenance of ML models.
+• Work closely with cross-functional teams to integrate AIML models into larger systems and applications.
+• Preprocess, transform, and analyze large datasets for use in AIML model development.
+• Implement data security measures such as encryption, decryption, and PII data masking.
+• Use AWS services to facilitate the development and deployment of AIML models.
+• Maintain and optimize code deployment models including Blue Green Deployment, Canary Deployment, etc.
+• Use programming languages such as Python, R, and tools like Pandas for data engineering tasks.
+• Ensure the integrity and reliability of data sources and outputs.
+• Effectively communicate complex ideas, results, and concepts to stakeholders, both technical and non-technical.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 43 : 
+Description:
+• Proven experience as an MLOps Engineer or similar role, with a minimum of 3 years of hands-on experience in deploying and managing machine learning models in production environments.
+• Strong proficiency in programming languages such as Python or Scala.
+• Solid experience of AWS and the Sagemaker service
+• Expertise in containerization technologies (e.g., Docker, Kubernetes) and experience with container orchestration for scalable and efficient deployment.
+• In-depth knowledge of DevOps practices and tools, including CI/CD pipelines, version control systems (e.g., Git), and configuration management (e.g., Ansible, Chef, Puppet).
+• Experience with data engineering, ETL pipelines, and distributed data processing frameworks (e.g., Apache Spark) for handling large-scale datasets.
+• Strong problem-solving and troubleshooting skills, with the ability to analyze complex systems and resolve issues efficiently.
+• Excellent communication and collaboration skills, with the ability to work effectively in cross-functional teams and present complex ideas to both technical and non-technical stakeholders
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Job description 44 : 
+Job description 44 :
+Requirements: Bachelors/masters degree in computer science, Statistics, or Mathematics.
+The candidate should have proven experience in deploying real-time AI/ML models using Google Cloud Platform.
+Candidate should have strong programming skills in Python and PySpark.
+Proficiency with SQL, relational databases, data warehouses, and BigQuery is required.
+Experience in scaling marketing-related AI/ML solutions such as cross/upsell, recommended systems, and category propensity is needed.
+Experience in deploying and managing large scale Machine Learning Models will be a plus.
+Experience in scheduling jobs for automated training and inference of AI/ML models using airflow or any other workflow orchestration platform is required.
+Proficiency in collecting data from different data sources, data cleaning, preprocessing, and feature engineering is needed.
+Understanding of. regression, classification, and unsupervised ML algorithms is required.
+Experience in mentoring junior associates in scaling AI/ML models is needed.
+Candidate should have excellent problem-solving and analytical skills.
+Strong written and verbal communication skills are required, with the ability to present and explain complex concepts to both technical and non-technical audiences
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 45 : 
+• 4+ years of industry experience and a passion for crafting, analyzing and deploying machine learning-based solutions
+• Experience working as part of a team with mature data science products
+• Consistent record in building and establishing comprehensive monitoring, logging, and alerting solutions to proactively identify and address performance bottlenecks and potential issues, ensuring the continuous availability and reliability of our machine learning systems.
+• Experience deploying, monitoring and maintaining data science products in cloud environments such as AWS or Microsoft Azure
+• Good understanding of Machine Learning methods, including ML project lifecycle and associated challenges at each stage of development.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 46 : 
+• Proficient at writing good quality, well-documented and tested, scalable code - Python preferred. Experience with tools like mlFlow, Airflow, Docker and Cloud Platforms such as AWS/GCP is ideal
+• Strong grasp of DevOps best practices, including continuous integration, continuous deployment, and infrastructure automation, supported by practical experience in implementing and managing CI/CD pipelines.
+• Act as a first responder to production incidents, utilizing your troubleshooting skills and expertise to swiftly diagnose and resolve issues, minimizing downtime and mitigating potential impact on our operations.
+• Strong communication skills and ability to interface well with other engineers, data scientists and product managers
+• Passion, curiosity, solutions focus and independence
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 47 : 
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 48 : 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
