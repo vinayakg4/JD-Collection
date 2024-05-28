@@ -562,26 +562,165 @@ Practical experience with Linux, version control systems (Git), build systems (M
 Knowledge in C/C++, JavaScript.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 42 : 
+Requirements:
 
+Education: Bachelor's degree from one of the IITs (Indian Institutes of Technology) in any department.
+Experience: Minimum of 5 years of experience in a data science or related role, with a proven track record of delivering impactful solutions.
+Technical Skills: 
+
+Proficiency in programming languages such as Python or R, along with experience using libraries and frameworks for data manipulation, analysis, and modeling (e.g., pandas, scikit-learn, TensorFlow).
+Strong understanding of statistical concepts and techniques, as well as experience with machine learning algorithms and techniques.
+Excellent problem-solving skills and the ability to think analytically and strategically.
+Communication Skills: Strong verbal and written communication skills, with the ability to effectively convey technical concepts to both technical and non-technical audiences.
+Team Collaboration: Ability to work collaboratively in a cross-functional team environment, as well as independently on projects.
+Passion for Learning: Curiosity and eagerness to learn new technologies and techniques, and apply them to real-world problems.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 43 : 
+Minimum 5+ years of experience in the IT industry.
+Strong problem-solving skills with an emphasis on product development.
+Knowledge of a variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks.
+Experience using statistical computer languages (R, Python, SQL, etc.) to manipulate data and draw insights from large data sets.
+A drive to learn and master new technologies and techniques.
+Experience working with and creating data architectures.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 44 : 
+Experience with writing SQL queries, performing basic conversion and transformations (formatting date string), and obtaining statistical summaries by using windowing functions. 
+Experience with usage of R/RStudio, Python, JupyterNotebook 
+Experience with version control tool like Git 
+Strong experience with Excel and PowerPoint to present results. 
+Ability to write scripts to automate ETL tasks.
+Experience in AI / Deep Learning for text/image/video analytics preferred.
+Experience in Cloud Computing and data streaming preferred.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 45 : 
+Ability to run standard model algorithms in R and Python, to perform: classification/regression, clustering, basic text analytics, image recognition, etc. g., run a classification problem using random forest, and obtain the variable importance, produce performance metrics/KPIs; run a k-means clustering problem, produce a KPI to quantify the goodness of clusters. 
+Demonstrated skills in selecting the right statistical tools given a data analysis problem.
+Experience with charting tools & knowledge of the proper charting tool to use, whether Excel or Tableau
+Consistently improves communication skills, both verbally and in written materials 
+Demonstrated creativity in problem solving. 
+Demonstrated leadership and self-direction. Demonstrated willingness to both teach others and learn new techniques. 
+Flexibility in task switching. For instance, when there are urgent requests or change of projects, can accommodate the changes without protesting.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 46 : 
+• Proficiency in Python/Pyspark, SQL.
+• Experience with common data science toolkits such as pandas, numpy, scipy, scikit- learn, and matplotlib.
+• Strong understanding of statistical concepts including probability, conditional probability, probability distribution, sampling, estimation, and hypothesis testing.
+• Experience with various machine learning techniques and algorithms including Regression, Decision Trees, Random Forest, XGBoost, k-NN, Naive Bayes, SVM, and Recommender systems.
+• Excellent problem-solving and analytical skills with a keen eye for identifying patterns and insights in complex datasets.
+• Minimum of bachelor’s degree in a relevant discipline.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 47 : 
+We're committed to bringing passion and customer focus to the business.
+Experience: 7 to 10 years
+Mandatory Skills: Data Model Design, ER-diagram, Data Warehouse, Data Strategy, Hands on experience in Design and Architecture for enterprise data application.
+Good to have: Python, PySpark, Databricks, Azure Services(ADLS, ADF, ADB)
+Good communication and Problem-solving skills.
+Some understanding on CPG domain.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 48 : 
+Strong Database knowledge and work experience in dealing with multi terabyte and high concurrent work loads
+2+ years of experience related to MPP and/Or Columnar database platforms like Redshift, Azure , Snowflake etc
+4 years of experience with traditional OLTP database platforms like Postgres ,MS SQL server etc
+Strong theoretical knowledge and practical exposure in creating and troubleshooting various database objects
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 49 : 
+1. Bachelor's degree or higher in Applied Mathematics, Statistics, Computer Science, or a related field.
+2. 3 to 5 years of hands-on experience in industry or research lab settings.
+3. Strong expertise in machine learning algorithms and statistical methods.
+4. Proven track record of developing and shipping ML data products.
+5. Proficiency in Python.
+6. Experience with Spark is a plus.
+7. Excellent communication and collaboration skills, with the ability to work effectively in a team environment.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 50 : 
+Proven hands-on experience in data science or -engineering and understanding what it takes to design, build and maintain successful data platforms, -services and -products 
+Superior expertise in Software Engineering in Python or R, and SQL 
+Knowledge of cloud technologies such as AWS, GCP, Azure, esp. Docker, and Apache Airflow 
+Sound experience in machine learning techniques and the ability to identify the appropriate technique in different scenarios 
+Sound project management capabilities, commercial awareness, and ability to develop and execute experimental and analytic plans for data modeling processes, use of strong baselines, ability to accurately determine cause and effect relations 
+Excellent communication skills to collaborate with business stakeholders, technical engineers and management. 
+Fluency in English is a must 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 51 : 
+Participate in mapping requirements to implementation - Analysing, coordinating, prioritizing, and optimizing requirements. Ensuring implementation even with constraints.
+Work with data and develop predictive models, recommendation engines, anomaly detection systems, statistical models, deep learning models, and other machine learning systems
+Good understanding of machine learning concepts and programming languages like Python, Pyspark, SQL etc. based on latest market trends
+Ability to work within constraints and timelines and follow the delivery standards and processes defined within Ericsson
+Good understanding and implementation knowhow of on-premise and well as on-cloud machine learning solutions
+End to end From Model development to Deployment,
+Must have working knowledge of Python, pyspark and SQL 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 52 : 
+Experience in data analysis, especially for time series data, to solve business problems in complex, fast-moving, and ambiguous business environments with strong data intuition and business acumen.
+Experience in stakeholder-facing or client-facing roles (e.g. previous consulting role).
+Experience with statistical softwares (e.g., Python), database languages (e.g., SQL), and data visualization tools (e.g., Tableau).
+Excellent communication skills (written and verbal) to translate technical solutions and methodologies to leadership.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 53 : 
+● At least 1 year of experience in Data Analysis.
+● Complete understanding of Operations Research, Data Modelling, ML, and AI concepts.
+● Knowledge of Python is mandatory, familiarity with MySQL, SQL, Scala, Java or C++ is
+an asset.
+● Experience using visualization tools (e.g. Jupyter Notebook) and data frameworks
+(e.g.Hadoop).
+● Analytical mind and business acumen.
+● Strong math skills (e.g. statistics, algebra).
+● Problem-solving aptitude
+● Excellent communication and presentation skills.
+● Bachelor’s / Master's Degree in Computer Science, Engineering, Data Science or other
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 54 : 
+Bachelor’s degree in Data Science, Computer Science, or other related fields.
+Proven experience in Data Science and other related fields.
+Good understanding o techniques of data management and visualization.
+Expertise in statistical data analysis and predictive data modeling.
+Good technical and coding knowledge of Python, R language, MATLAB, SQL, and other databases.
+Outstanding communication skills.
+Inspiring leadership qualities and organizational skills.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 55 : 
+Utilize ML and AI methodologies to address business challenges effectively.
+Demonstrate expertise in probability, statistics, and Data Science principles.
+Proficiently code in Python, Spark, SQL, R, geopandas, and PyTorch.
+Apply advanced Data Science concepts such as XG Boost, MLflow, Scikit-Learn, and Bayesian Optimisation.
+Determine the most suitable data and models for project requirements.
+Collaborate with a team of advanced analytics specialists.
+Justify modelling decisions to the Lead Data Scientist and work towards project deliverables.
+Engage in all stages of the project lifecycle from concept to execution.
+Demonstrate an entrepreneurial mindset and a drive to innovate.
+Work independently and liaise with cross-functional teams effectively.
+Exhibit intellectual curiosity, excellent communication, and presentation skills.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 56 : 
+Strong proficiency in programming languages such as Python and R.
+Expertise in sentiment analysis, NER, and other natural language processing techniques is a must.
+Experience in MLOps, Machine Learning, Statistical Modeling, and Data Visualization.
+Excellent leadership, communication, and interpersonal skills.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 57 : 
+Responsibilities:
+
+Collect, clean, and analyze data
+Develop predictive models and algorithms
+Collaborate with teams to address data challenges
+Communicate findings to stakeholders
+Assist in data-driven strategy development
+Requirements:
+
+Pursuing or completed degree in Computer Science or related field
+Proficiency in Python, R, or SQL
+Strong analytical and problem-solving skills
+Familiarity with data visualization tools
+Excellent communication skills
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 58 : 
+Previous experience in deploying and maintaining machine learning models in production environments.
+Solid understanding of machine learning concepts and model deployment.
+Proficiency in python.
+Knowledge of containerisation and orchestration tools including Docker.
+Experience deploying data science pipelines using AWS
+Familiarity with monitoring and logging tools for ML Ops.
+Experience with building robust testing protocols for data pipelines including unit testing & integration testing
+Excellent modelling skills, as evidenced by an advanced degree or significant experience
 
