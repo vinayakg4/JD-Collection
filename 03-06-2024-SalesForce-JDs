@@ -254,29 +254,75 @@ Independently perform development, testing, implementation, documentation, and u
 
 Job description 18 : 
 
+Desired Skills:
+Experience with Community Cloud / Experience Cloud is highly advantageous.
+Knowledge of CRM Analytics (CRMA) is a plus.
+Familiarity with integration tools such as MuleSoft or Snowflake is beneficial.
+Salesforce certifications are a plus, but not mandatory.
+
+Tools:
+Salesforce Platform
+Salesforce Sales Cloud
+Apex programming language
+Salesforce development tools (e.g., Force.com IDE)
+Data migration tools (e.g., Data Loader)
+Integration tools like MuleSoft or Snowflake (nice to have)
+
 
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 19 : 
+Key Responsibilities:
+Develop and customize Salesforce applications using Apex, Visualforce, and LWC.
+Participate in Agile ceremonies and collaborate with stakeholders.
+Write and maintain SQL queries for data manipulation and reporting.
+Troubleshoot and resolve technical issues within Salesforce.
+Work with cross-functional teams to deliver solutions.
+Qualifications:
+Bachelor’s degree in Computer Science or related field.
+1+ year experience in Salesforce CRM.
+6+ months experience with Salesforce LWC and JAVA.
+Knowledge of Agile methodologies and SQL
 
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 20 : 
+Design, develop, and deploy software used by internal and external users.
+Support internal users with a wide range of SFDC engineering and admin tasks.
+Develop and maintain custom integrations between platforms such as NetSuite,
+Pardot, Slack, Qualtrics, etc
+Write unit tests and participate in QA/UAT
+Write and maintain technical documentation
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 21 : 
-
+2 years of experience as a SFDC developer/engineer.
+Strong APEX and SOQL knowledge
+Hands-on experience with Lightning framework, Lightning Design System, and
+Lightning Web Components
+Proficient in JavaScript
+Experience integrating external systems with Salesforce
+Strong Admin background
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 22 : 
+3 to 5 years of Salesforce development experience.
+Proficiency in Apex, Visualforce, JavaScript (Lightning Aura & LWC).
+Knowledge of Salesforce Best Practices in Apex and Visualforce.
+Must be certified as a Platform Developer I, and preferred certifications include Platform Developer II, JavaScript Developer I, and Adv Administrator.
+Experience with Salesforce integrations, including WebServices and REST/SOAP APIs, and knowledge of integration patterns.
+Hands-on experience with multiple Salesforce project deployments and environment management.
+Strong written and verbal communication skills.
+Experience working in an Agile environment.
 
 
 
@@ -285,12 +331,29 @@ Job description 22 :
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 23 : 
-
-
+Develop Apex (classes and triggers), Lightning Components, and Visualforce to extend Salesforce in order to support business requirements,
+Application development, including basic Visualforce pages/Lightning pages, Lightning Web Components, Assist with each release cycle to implement and deploy new/updates to existing applications and code
+Working with integrated applications such as Oracle CPQ, D&B, Heroku, AWS etc.
+Testing (unit and systems), and debugging.
+Striving towards coding best practices and data quality
+Contributing to technical documentation
+Supporting the Salesforce Administrator on occasion
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 24 : 
+Design, develop and deploy custom solutions on the Salesforce platform using Apex, Lightning Web Components and Aura Lightning components.
+Work collaboratively with business stakeholders to understand their requirements and provide solutions that meet their needs.
+Knowledge of Salesforce data model and data management.
+Strong knowledge on HTML & JavaScript skills.
+Should have knowledge on Flows & Process Builders.
+Perform data migration and data cleansing tasks as needed.
+Develop integrations between Salesforce and other systems using REST and SOAP APIs.
+Participate in code reviews to ensure code quality and adherence to best practices.
+Troubleshoot and resolve issues with Salesforce functionality.
+Strong analytical and problem-solving skills.
+Ability to work independently and as part of a team.
+Excellent communication and collaboration skills.
 
 
 
@@ -298,58 +361,149 @@ Job description 24 :
 
 Job description 25 : 
 
-
+Must Have-
+3 - 5 years of Total Experience in CRM solutions with 2+ years in Salesforce.
+Minimum 2 certifications in Salesforce such as Admin, Platform Developer I or JavaScript Developer I.
+Hands on experience and expertise in Apex, Triggers, LWC, Flows, Lightning, SOQL, SOSL, Developer Console, Eclipse Force.com IDE/Maven IDE and reading SFDC platform logs.
+Ability to develop and configure custom applications on the Salesforce platform.
+Excellent communication and interpersonal skills to collaborate with diverse teams of developers, QAs, and BAs.
+Experience of working in Agile teams.
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 26 : 
 
+Bachelor’s degree in Computer Science or related field.
+Salesforce Developer certification (e.g., Salesforce Certified Platform Developer I/II).
+Proven experience in Salesforce development, with expertise in Apex, Visualforce, and Lightning components.
+Strong understanding of Salesforce architecture, data model, and security model.
+Experience with Salesforce integration using REST/SOAP APIs, and web services.
+Excellent problem-solving skills and attention to detail.
+Strong communication and collaboration skills.
+Ability to work independently and as part of a team in a fast-paced environment.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 27 : 
-
+Required Skill Set
+1. 2-3 Years Working Experience in Force.com developer toolkit - Apex, VisualForce, Force.com IDE, force.com
+migration tools, WebServices/SOA & Metadata API's
+2. 1 years+ experience in SQL and RDMS
+3. 2 years+ experience in Java and/or J2EE
+4. Desirable to have completed "Salesforce.com Certified Developer" and "Salesforce.com Advanced Certified Developer" Certification
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 28 : 
-
+You keep current with the latest Salesforce features to support a clicks-before-code solution preference.
+You have spent time supporting Salesforce orgs in production Salesforce certifications.
+Recent experience as a Salesforce Developer using Lightning and Apex.
+Expertise in Salesforce Service Cloud, AWS API gateway integration.
+Experience in using Salesforce appexchange products and integrating them.
+Experience migrating Salesforce Classic Knowledge to Lightning Knowledge.
+Experience with debugging issues identified in other people’s code or Components.
+Experience configuring Permission Sets and Sharing Rules using “least privilege” principles.
+Excellent communication and collaboration skills.
+Experience with Knowledge-Centered Service (KCS).
+Experience with setting up Lightning Knowledge with approval flows.
+Integrating Salesforce.com with other applications and data-driven processes using RESTful APIs.
+Experience developing unlocked packages using SFDX and the CLI.
+Production experience developing in an object-oriented language (Java, C#, C , etc.).
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 29 : 
-
+Have worked at least 2 to 5 years on Salesforce.com
+Know Salesforce Administration and Development really well
+Are good at automation & rules, data migration, and data security
+Have a strong base in LWC, Aura, Apex, Triggers, Lightning Components, Asynchronous Apex &amp; Salesforce Object Query Language (SOQL), Visualforce, .
+Follow coding best practices and understand Apex coding limitation
+Can integrate Salesforce with external systems using SOAP/REST services
+Have experience with production deployment using change set/eclipse/ANT migration TOOL and working on solving deployment errors.
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 30 : 
-
+1. Strong experience on SFDC configurations, Apex, VisualForce, Lightning
+2. Lightning administration and development experience
+3. Deep understanding of the platform's development technologies, especially batchable & scheduled jobs and Lightning Web Components
+4. Experience with the platform's low-code, declarative elements such as Process Builder, Flow, and workflow rules
+5. Strong knowledge of key areas within the Salesforce database model, the Apex programming language, triggers, and the Salesforce Object Query Language (SOQL)
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 31 : 
+MUST HAVE
+Lightning development experience including both LWC and Aura.
+Experience with HTML, JavaScript and CSS Configuration (Flows, approval process, email alerts etc.)
+Understanding object relationships, Validation rules, formula fields etc.
+Profiles and permission sets
+Good understanding of record access, sharing rules, role hierarchies etc.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 32 : 
+Familiar with using Apex (classes and triggers), Visualforce, Lightning pages, Aura Components and Lightning Web Components.
+You have Hands On experience in one or many of the following - Sales Cloud, Experience Cloud, Commerce Cloud (B2B Commerce)
+Deep knowledge of Salesforce development best practices and frameworks
+Holder of most development related Salesforce certifications
+Ability to collaborate effectively with team members in different geographies.
+Excellent written (Business & Technical), verbal and listening communication skills.
+Strong analytical and troubleshooting skills.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 33 : 
+Expertise in Apex, Lightning, visualforce, SOQL/SOSL, and Javascript
+4+ years of Salesforce application development experience.
+Experienced with Salesforce SOAP API, REST API, and BULK API.
+Deep understanding of Salesforce APIs and its integration capabilities.
+Experienced with Web UI frameworks in Visualforce pages or Lightning components.
+Strong command on Salesforce platform, its capabilities and limitations.
+Good understanding of Object oriented programming concepts.
+Excellent verbal, written, communication, interpersonal and presentation skills
+Excellent cross-functional stakeholder management.
+Ability to work both independently and collaboratively in a fast paced environment.
+Passion for technology, industry research and enjoys solving business problems
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 34 : 
+Required Technical and Professional Expertise
+Salesforce Developer - Apex / Lighting Web Components (LWC) (required)
+Experience Cloud (formerly Community Cloud) knowledge and experience: Audiences targeting in Experience Cloud (required). Experience Cloud knowledge and experience
+Salesforce Lightning/LWC *Apex *Integration
+Sales Cloud, Service Cloud and Experience Cloud
+
+
+Preferred Technical and Professional Expertise
+Experience in Salesforce Marketing cloud
+Vlocity experience
+Experience in commerce cloud
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 35 : 
-
+Design, develop, and maintain solutions on the Salesforce.com platform, encompassing platform administration, development, data management, integration, security, and deployment.
+Utilize strong Apex, Visualforce, SOQL, SOSL, data Loader, and Force.com database programming skills to implement robust and scalable solutions.
+Develop and test applications using tools such as VS Code, Eclipse, and Force.com IDE.
+Implement Lightning Framework, Aura Components, and Lightning Web Components (LWC) to enhance user experience and functionality.
+Integrate Salesforce with other applications using SOAP-based and REST-based services.
+Collaborate with team members and stakeholders to gather requirements, provide technical insights, and coordinate deliverables.
+Demonstrate excellent verbal and written communication skills, facilitating effective collaboration within the team and across functional areas.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 36 : 
+Collaborate with the team to understand project requirements
+Assist in customizing and configuring Salesforce to meet business needs
+Develop and maintain Salesforce applications using Apex and Visualforce
+Participate in testing and debugging of Salesforce solutions
+Learn and apply best practices in Salesforce development
+Provide support and assistance to senior developers as needed
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 37 : 
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 38 : 
