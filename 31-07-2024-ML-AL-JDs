@@ -6,44 +6,90 @@ RoadMap 2 :
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 1 : 
-
+Design, develop, and deploy machine learning models and algorithms to solve business problems and enhance our SaaS products.
+Experience working with Multi-modal LLMs like Claude, Gemini, Llama
+Collaborate with data scientists, software engineers, and product managers to integrate machine learning solutions into our platform.
+Analyze and preprocess large datasets to extract meaningful features and insights.
+Optimize and maintain machine learning models to ensure high performance and scalability.
+Conduct experiments and perform rigorous testing to validate model accuracy and effectiveness.
+Stay up-to-date with the latest advancements in machine learning and AI technologies, and apply them to improve our products.
 
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 2 : 
-
+Bachelor’s or Master’s degree in Computer Science, Data Science, Machine Learning, or a related field.
+Proven experience as a Machine Learning Engineer or similar role, preferably in a SaaS environment.
+Strong programming skills in Python with a focus on machine learning libraries and frameworks (e.g., TensorFlow, PyTorch, scikit-learn).
+Proficiency in data analysis and manipulation using tools such as pandas, NumPy, and SQL.
+Familiarity with version control systems (e.g., Git) and collaborative development workflows.
+Excellent problem-solving skills and the ability to work independently as well as part of a team.
+Strong communication skills, both written and verbal, with the ability to explain complex concepts to non-technical stakeholders.
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 3 :
-
-
+Running and fine-tuning machine learning models using popular frameworks such as TensorFlow, PyTorch, or Scikit-Learn
+Experience in LLMs, Instruction/Function calling, Langchain, LamaIndex and other libraries used in AI pipeline.
+Gathering and cleaning data sets for training and validation purposes
+Writing Python code to support cross-functional teams in implementing machine learning algorithms and models
+Collaborating with data scientists, engineers, and other stakeholders to ensure seamless integration of AI solutions into our products and services
+Assisting in the development of new AI and machine learning features and functionalities
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 4 : 
-
+Required Skills and Qualifications
+BS/MS/PhD in Computer Science, Engineering, Mathematics, Statistics, or a related field
+Strong understanding of machine learning concepts and algorithms, including supervised and unsupervised learning, deep learning, and neural networks
+Proficiency in programming languages such as Python, NodeJS, R, or MATLAB
+Familiarity with popular machine learning libraries and frameworks such as TensorFlow, PyTorch, or Scikit-Learn
+Experience with data preprocessing, data visualization, and statistical modeling techniques.
 
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 5 : 
+Core Python fundamentals and programming
+Working with Python libraries like Pandas, NumPy, etc.
+Knowledge of Python frameworks like Flask, Django etc.
+Excellent deep learning skills and machine learning. NLP , LLM
+Strong experience in Model Creation, Integration, valuation, and Optimization.
+Strong experience TensorFlow, pytorch, etc.
+Strong experience in training models on GPU.
+Additional knowledge on Gen AI will be an added advantage.
 
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 6 : 
-
+ Design, develop, and implement machine learning models and algorithms.
+· Learn partner / cloud technologies and how to incorporate them into solutions.
+· Collaborate with cross-functional teams to understand business requirements and translate them into technical solutions.
+· Optimize and fine-tune models for performance, scalability, and accuracy
+· Deploy and maintain ML models in production environments
+· Monitor and evaluate model performance, making improvements as needed.
+· Stay up-to-date with the latest developments in machine learning and AI technologies.
+· Experience writing technical documents or diagrams is a plus.
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 7 : 
+Required Qualifications:
+· Experience with Azure, AWS, or GCP.
+· Experience developing ML/AI solutions.
+· Intermediate level of general Python knowledge.
+
+Preferred Qualifications:
+· Experience with TensorFlow, Hugging Face, OpenCV, PySpark, or other ML Libraries
+· Experience deploying ML solutions using Docker, Kubernetes, APIs, or other methods.
+· Familiarity with multiple subdomains of AI/ML, including statistical learning, computer vision, NLP, deep learning, and LLMs is a major plus.
+· Basic familiarity with other IT subdomains may be advantageous.
 
 
 
