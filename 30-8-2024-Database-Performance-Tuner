@@ -7,95 +7,315 @@ RoadMap 2 :
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 1 : 
-
+ Develop high-quality database solutions
+2. Develop, implement and optimize Stored Procedures and functions using T-SQL
+3. Excellent understanding of T-SQL programming, PostgreSQL and Microsoft SQL Server
+4. Review and interpret ongoing business report requirements
+5. Build appropriate and useful reporting deliverables
+6. Analyze existing SQL queries for performance improvements and develop procedures and scripts for data migration
+7. Skilled at optimizing large complicated SQL statements; Ability to write and optimize in-application SQL statements
+8. Experience with SQL Server Reporting Services, SQL Server Analysis Services, and SQL Server Integration Services
+9. Familiarity with MySQL is an added advantage
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 2 : 
+Possess excellent verbal and written communication skills
+Strong problem solving skills and logical aptitude
+Hands on knowledge of Java and JavaScript technologies
+Knowledge of JDBC, SQL, XML, JSON and HTML is a must
+Good understanding of Software Development Life Cycle
+Hands on knowledge with any RDBMS is a must
+Quick learner and high adaptability is desired
+Knowledge of CSS is a bonus
+Knowledge of MongoDB or any NoSQL database is a bonu
+Experience with modern JavaScript frameworks such as NodeJS, ReactJS, ExpressJS, Angular is a bonus
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 3 : 
-
+Lead the design, development, and implementation of complex database architectures for our SaaS platform.
+Ensure data integrity, security, scalability, and performance of our financial data infrastructure.
+Select, evaluate, and implement new database technologies and tools to optimize our data management systems.
+Collaborate with engineers, product managers, and other stakeholders to understand business needs and translate them into robust database solutions.
+Develop and maintain data modeling standards and best practices.
+Oversee database performance optimization and troubleshooting.
+Stay current on the latest trends and innovations in database technologies and financial data management.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 4 : 
-
+1. Designing and implementing database solutions using Mongo and Postgre SQL to meet the needs of our applications and business processes.
+2. Performance tuning and optimization of database systems to ensure they meet our performance and scalability requirements.
+3. Working closely with development teams to model, design, and implement database schema that meet our business requirements.
+4. Troubleshooting and resolving database-related issues, including performance bottlenecks, data integrity, and security.
+5. Collaborating with operations teams to ensure that our database systems are properly monitored, backed up, and maintained.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 5 : 
 
-
+2+ years of experience in software development, with a focus on backend technologies.
+Strong proficiency in programming languages - Python or Node.js.
+Knowledge of AWS.
+Knowledge of database technology such as SQL, MySQL, PostgreSQL.
+Strong understanding of object-oriented programming principles and design patterns.
+Excellent problem-solving, analytical, and communication skills.
+Passion for backend development and a continuous learning mindset.
+Familiarity with frontend technologies such as JavaScript, HTML5, CSS3, and frameworks/libraries like React or Angular is required
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 6 : 
-
+2+ years of extensive experience running highly scalable databases and database infrastructure
+Mandatory skills are Golang, Kubernetes, Database (PostgreSQL, MySQL), Any cloud (AWS, Azure, GCP)
+Experience with Kubernetes, including developing and maintaining controllers
+Knowledge and experience with cloud platforms (e.g., AWS, Google Cloud, Azure) and their managed database services (e.g., RDS, Amazon Aurora)
+Experience in software development using Go
+Experience with containerization technologies (Docker)
+Experience in infrastructure as code frameworks (Terraform)
+Experience working with Agile methodologies
+Strong problem-solving skills to address and resolve sophisticated database-related issues
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 7 : 
-
+Minimum 4+ year of SQL experience
+Experience in DevOps and Machine Learning (ML) with hands-on experience with one or more cloud service providers (Azure preferred) is preferred
+BE/BS in Computer Science, Math, Physics, or other technical fields.
+Data Science – Hands on experience and strong knowledge of building machine learning models – supervised and unsupervised models
+Programming Skills – Hands-on experience in statistical programming languages like Python, R and database query languages like SQL
+Statistics – Good applied statistical skills, including knowledge of statistical tests, distributions, regression, maximum likelihood estimators
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 8 : 
-
+Proficient in writing and optimising SQL queries for data extraction
+Translate client requirements to technical design that junior team members can implement
+Developing the code that aligns with the technical design and coding standards
+Review design and code implemented by other team members. Recommend better design and efficient code
+Conduct Peer design and Code Reviews for early detection of defects and code quality
+Documenting ETL processes and data flow diagrams
+Optimizing data extraction and transformation processes for better performance
+Performing data quality checks and debugging issues
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 9 : 
-
+Developing and maintaining allserver-side components.
+Ensuring optimal performance of the central database and responsiveness to front-end requests.
+Collaborating with front-end developers on the integration of elements.
+Designing customer-facing UI and back-end services for various business processes.
+Developing high-performance applications by writing testable,reusable, and efficient code.
+Implementing effective security protocols, data protection measures, and storage solutions.
+Running diagnostic tests,repairing defects, and providing technical support.
+Documenting Node.js processes, including database schemas, as well as preparing reports.
+Recommending and implementing improvements to processes and technologies.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 10 : 
+You will apply database software updates and stand-alone hotfixes to customer environments, communicate with third-party software or hardware manufacturers as needed to ensure optimal configuration and support. 
+Candidates should have good knowledge of Oracle Database architecture, Backup and Recovery, Data Guard, Real Application Clusters, ASM, Data Pump, Patching, Performance, and SQL Tuning.
+The primary focus is to keep the lights on, ensuring customer databases are stable and performant to fulfill our contractual obligations to customers.
+Additionally, you will be part of the OHAI roadmap projects, such as migrating the Database to Oracle Cloud and Autonomous Databases
 
+Minimum Qualifications
+
+At least 3+ years of experience as Oracle DBA
+1+ years of experience shipping scalable, cloud native distributed systems.
+Bachelor’s degree/master’s degree (Information Technology/Mathematics/Computer Science/Computer Software/Electronics/Operational Research/Computer System Engineering).
+Ability to work in a collaborative, cross-functional team environment.
+Strong grasp of Computer Science concepts
+Knowledge in Python, Perl and/or Shell Scripting
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 11 : 
+Ability to build software on Ruby on Rails applications
+Experience/ability to work in software development and working in an agile environment
+Experience/ability to work with RESTful APIs with particular attention to security, scalability, availability, and performance.
+Ability to work with databases using SQL
+Organizational skills
+Ability to work independently
+Familiarity with various operating systems
+Understanding basic source code management using Github
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 12 : 
-
+Provide expert-level support for MongoDB database systems and Node.js applications.
+➢Troubleshoot and resolve technical issues related to MongoDB and Node.js implementations.
+➢Monitor system performance and proactively identify and address potential issues.
+➢Collaborate with development teams to optimize database queries and application performance.
+➢Develop and maintain technical documentation related to MongoDB and Node.js configurations and best practices.
+➢Stay updated on the latest trends and advancements in MongoDB and Node.js technologies.
+➢Knowledge of Jira and creating bugs in Jira would be of added advantage
+➢Having relevant experience of at least 1+ years
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 13 : 
-
+Minimum of 5 years of relevant work experience
+Demonstrable experience and technical proficiency with, C# and .NET, developing and supporting Cloud-Scale Platform services, and complex problem solving
+Working knowledge of API Security and Authentication principles, SDLC concepts and technologies, and SCRUM methodology
+Solid understanding of how to interact with and manage both Relational and Non-Relational Data Stores, Docker Containerization, Kubernetes Orchestration, and multi-substrate Public Cloud Infrastructure.
+Technical proficiency with complex problem solving and performance troubleshooting.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 14 : 
-
+Version Control & Database Operations: Utilize Git for code management; conduct basic database operations and write simple queries.
+Programming & Performance Profiling: Implement and optimize basic algorithms and data structures; apply performance profiling techniques to enhance code efficiency.
+AWS Basics & Containerization: Develop a foundational understanding of AWS services and manage Docker containers, with a basic grasp of Kubernetes.
+Debugging & IDE Proficiency: Use debugging tools like ELK and Grafana to troubleshoot applications; effectively navigate and utilize IDE features.
+System Design & SDLC Adherence: Engage in system design discussions, implement components, and actively participate in all SDLC phases.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 15 : 
-
+Design, develop, and maintain the database infrastructure to store and manage company data efficiently and securely.
+Work with databases of varying scales, including small-scale databases, and databases involving big data processing.
+Work on data security and compliance, by implementing access controls, encryption, and compliance standards (GDPR).
+Collaborate with cross-functional teams to understand data requirements and support the design of the database architecture.
+Migrate data from spreadsheets or other sources to a relational database system (e.g., PostgreSQL, MySQL) or cloud-based solutions like Google BigQuery.
+Develop import workflows and scripts to automate the data import process and ensure data accuracy and consistency.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 16 : 
-
+1. Assist production team for process deliveries by creating procedures, jobs, etc,
+2. Monitoring system performance and identifying problems that arise and fix the same.
+3. Responding in a timely manner to user-reported errors.
+4. Ensuring that the database is consistently backed up and able to be recovered in the event of any disaster.
+5. Reporting on metrics regarding usage and performance.
+6. Develop processes for optimizing database security.
+7. Audit the databases regularly and involve in optimization activities.
+8. Suggesting changes and improvements for maintenance or protection.
+9. Regularly liaising with IT project managers and production team to ensure database security and optimization.
+10. Designing databases with both front-end and back-end users in mind.
+11. Managing user permissions and access.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 17 : 
+Conduct comprehensive product analysis to inform strategic decision-making.
+Perform predictive analytics to forecast trends and business outcomes.
+Develop and maintain machine learning models and data science reporting tools.
+Analyze web traffic and campaign performance to optimize e-commerce strategies.
+Primary Skills:
 
+Extensive experience of 5 to 7 years with databases and cloud data warehouses especially on Snowflake.
+Strong SQL proficiency. - SQL Queries - Optimization
+Proven product analytics, predictive analytics and regression analysis experience.
+Data science expertise with a focus on predictive analytics and machine learning.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 18 : 
-
+Work as an individual contributor on customer systems to administer both physical and logical database system functions .
+Be proactive in performance tuning and optimization to improve database efficiency .
+Excellent problem-solving skills with strong attention to details .
+Implement ,maintain and test Database Backup and Recovery strategies .
+Willing to work in 24/7 shifts as per customer requirements
+Excellent Communication skills to attend customer meetings to understand technical requirements .
+Provide migration support for Cloud Migration Projects (Any Cloud )
+Provide support during system implementation ,production deployments or outages .
+Handles Patching, Upgrades ,etc. for the database systems .
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 19 : 
-
+Deep understanding of Entity-Relationship concept and Normalization/Denormalization
+Experience in indexing and performance monitoring and tuning
+Write optimized, effective, reusable and scalable code
+Analyze existing SQL queries for performance improvements
+Test and debug with refactoring capabilities
+Implement security and data protection solutions
+Knowledge in RESTful API and microservice environment
+Understanding of AGILE
+Ability to create technical documentation
+Soft skills to work in a team environment
+Work in a startup environment with high level of ownership and commitment
+Skills to write unit and integration test cases
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 20 : 
-
+ Responsible for the monitoring and maintenance of software infrastructures and applications.
+ Analysis and diagnosis of application faults and errors from Database and UI.  Investigate user problems and needs, identify their source, and determine possible solutions.
+ Participate in the testing, installation and maintenance of applications software.
+ Conduct application functionality testing to ensure that the systems work as expected.
+ Handle huge database of clients using MS SQL server 2012/2014/2016/2019 and feature patch deployment.
+ Responsible for performing daily system backups and upgrades.
+ Successfully understand client issues, conduct any necessary technical research (code review, database queries, traces, debug, etc)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 21 : 
+Experience in database administration Support and Administer database instances effectively
+Performing basic tasks related to performance tuning, backup, recovery and high availability.
+Resolve simple to moderate (P2 and P3) incidents and problems effectively in a timely manner
+Providing 24X7 production support
+Contribute to performing root cause analysis Responsible for implementation of small to medium components of a project module
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 22 : 
-
+Proficiency with databases such as MariaDB/MySQL, NoSQL, PostgreSQL, MongoDB, Cassandra.
+Strong technical knowledge of Linux operating systems.
+Excellent problem-solving and analytical skills.
+Expertise in relational databases, backup, and recovery.
+Experience with shell scripting (Shell, Perl, Python).
+Bachelor’s degree in computer science or related field (or equivalent experience).
+3-5 years of experience with relational databases (e.g., MariaDB/MySQL/NoSQL).
+3-5 years of experience with automation and shell scripting (Shell, Perl, Python).
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 23 : 
-
+3-5 years of hands-on experience and technical leadership with cloud-native database technologies in a production environment and familiarity with AWS database services (Aurora Postgres, DynamoDB, ElastiCache, Keyspaces).
+2+ years of experience working in public or private cloud environments, with preference for AWS.
+Experience with CI/CD pipelines, repeatable self-serve gitops-based deployments, and infrastructure-as-code technologies (CloudFormation, Terraform) and processes.
+Familiarity with elements of our greater service tech stack, including containerized Kubernetes-based microservice architectures, performance testing platform and tools, JS, APMs, messaging services, API gateways.
+Proficient in functional programming languages (including Python) as well as declarative programming languages (e.g. SQL, MYSQL).
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 24 : 
+Responsibilities:
 
+-Provide technical support for application-related issues.
+-Troubleshoot and resolve SQL queries and database performance issues.
+-Collaborate with development teams to optimize application functionality.
+-Ensure timely resolution of incidents and service requests.
+
+What We’re Looking For:
+-Strong experience with SQL and database management.
+-Proven track record in application support.
+-Excellent problem-solving skills and attention to detail.
+-Ability to work in a fast-paced environment.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 25 : 
+· Soft Skills:
 
+Strong communication and teamwork skills.
+Ability to work independently and manage multiple tasks effectively.
+A proactive attitude towards learning and applying new technologies.
+Preferred Qualifications:
+
+Experience with NoSQL databases (e.g., MongoDB, Redis).
+Understanding of microservices architecture and implementation.
+Knowledge of message brokers (e.g., RabbitMQ, Kafka).
+Experience with automated testing frameworks and test-driven development.
+
+· Technical Skills:
+
+Proficient in Python and experience with Python web frameworks such as Django, Flask, or FastAPI.
+Strong understanding of SQL databases (e.g., PostgreSQL, MySQL) and experience in database design, optimization, and management.
+Experience with version control systems like Git.
+Familiarity with RESTful API design and development.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 26 : 
-
+Strong knowledge of .NET web framework
+Proficient in C# and Javascript, with a good knowledge of their ecosystems
+Familiarity with the Mono framework
+Strong understanding of object-oriented programming
+Skill for writing reusable libraries
+Familiar with various design and architectural patterns
+Knowledge of concurrency patterns
+Familiarity with Microsoft SQL Server
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 27 : 
-
+At least 2+ years of experience as Oracle DBA
+1+ years of experience shipping scalable, cloud native distributed systems.
+Bachelor’s degree/master’s degree (Information Technology/Mathematics/Computer Science/Computer Software/Electronics/Operational Research/Computer System Engineering).
+Ability to work in a collaborative, cross-functional team environment.
+Strong grasp of Computer Science concepts
+Knowledge in Python, Perl and/or Shell Scripting
+Managing production databases running on UNIX flavors (RHEL, OEL).
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 28 : 
-
+Establish best practices for database tuning, performance monitoring, capacity management and automation
+Apply database software updates and stand-alone hotfixes to Customer environments
+Communicate with 3rd party software or hardware manufactures as needed to ensure optimal configuration and support.
+Consult with development teams on optimal database solutions, data architectures, and database physical structure and functional capabilities
+Evaluate and implement process and technology improvements to enhance availability, capacity and performance of database systems
+Lead development of business continuity and disaster recovery plans, processes, and procedures on database technologies and cloud databases
+Contribute to strategic projects outlined in our roadmap, focusing on transitioning on-premises databases to Oracle Cloud.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 29 : 
-
+Performs the installation, configuration, and maintenance of database management systems (DBMS), including SQL Server, Oracle, MySQL, or others, as required.
+Collaborates with software developers/architects to design and optimize database schemas, data models, and database-related applications.
+Assists with the mapping out of the conceptual design for a planned database.
+Participates in the writing of database documentation, including data standards, data flow diagrams, standard operating procedures and definitions for the data dictionary (metadata).
+Monitors database performance, identifies performance bottlenecks, and optimizes queries and indexing for optimal database performance.
+Continuously monitors database systems to ensure availability, proactively identify potential issues, and takes appropriate actions.
+Designs and implements robust backup and disaster recovery strategies to ensure data availability and business continuity.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 30 : 
-
+Hands on extensive experience in developing and implementation of Test documents like Feature files, Test cases, Test Plan, Test Strategy etc.
+Strong Database skills (MySQL & SQL server)
+Exposure to scripting languages (PowerShell, Perl, Python, etc.…) & BDD testing.
+Good understanding of test and defect tracking tools (defect logging tools, test management tools, versioning systems, statistical tools, performance monitoring tools, test automation tools etc.
+Quick learner for new technologies with good analytical and problem-solving skills
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
