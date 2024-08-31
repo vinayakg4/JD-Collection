@@ -1,1 +1,345 @@
+Sheet : 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+RoadMap 1 : 
+RoadMap 2 : 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 1 : 
+Required Skill Sets
+Experience in developing database projects using SQL Server 2005/2008
+Experience in SQL-XML programming
+Knowledge of SQL Server Integration Services (SSIS) for ETL and SQL Server Reporting Services (SSRS) for report generation
+Experience in Data Modeling, Database design and well versed with SQL Server best practices
+Experience on SQL Server Enterprise Database
+Experience and knowledge in Query Tuning, Database Tuning, Performance tuning and different indexing methods
+Knowledge of XML Extraction and Transformation
+Knowledge of XML Databases and Indexing/Search/Lucene
+Experience in .NET with strong object-oriented design skills
+Experience in the latest framework changes, build tools, and libraries
+Experience in Unix Shell scripts and using Unix scripting using bash or korn shell
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 2 : 
+Perform ETL (Extract, Transform, and Load) tasks
+Work with the Application Development team to write SQL queries and stored procedures.
+Develop and manage SSIS packages.
+Solve database usage issues.
+Work with users and other IT areas to determine ETL needs.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 3 : 
+Experience working in data driven projects.
+Strong command of SQL and SQL server tools
+strong knowledge of DDL and DML commands, stored procedures, triggers, views etc.
+Implement Monitoring, Logging and Auditing in database for existing processes.
+Advanced knowledge of database security, backup and recovery, and performance monitoring standards
+Develop processes for optimizing database security.
+Performance tuning of database systems.
+Diagnose and troubleshoot database errors.
+Recommend and implement emerging database technologies.
+Create automation for repeating database tasks.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 4 : 
+Develop and maintain SQL (and NoSQL) databases in Azure, including schema design, stored
+procedures and data integrity
+Automation of ETL processes with Azure tools
+Working with in-house and third-party data providers to build rich data sources for creating insight
+Working with front-end developers and Power BI experts to share and present data and
+insights for internal and client use cases
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 5 : 
+
+Candidate must have 8+ years of relevant experience in PL/SQL coding. 
+Candidate must have hands on experience on Azure. 
+Experience in coding PL/SQL Procedures, Triggers and complex SQL queries. 
+Analyze, Design and Code ETL jobs. 
+Create Database Views/materialized views, Indexes, Partitions.
+Strong knowledge DW concepts.
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 6 : 
+Experience in Shell scripting and Autosys/Control-M/Cron scheduling. Ability to communicate with Business users, understand and Analyze requirements and Use Cases. Experience working in Agile Teams. Proven problem solving, communication, interpersonal and analytical skills. Ability to work both independently as well as within a team.
+Core/Must have skills
+Good knowledge in Data Warehouse concepts and different schema types like Star and Snowflake
+Strong experience in writing complex queries, performance tuning, query optimization and debugging.
+Must be proficient in writing PL/SQL procedures, triggers and packages.
+Strong experience in writing complex queries, performance tuning, query optimization and debugging.
+Good knowledge in DW concepts and experience in any ETL tool.
+Experience in Onshore-Offshore delivery model.
+Experience in Agile model.
+Excellent verbal and written communication skills.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 7 : 
+NICE TO HAVE
+
+Good Knowledge of json 
+Experience in working in SOA (Service oriented architecture) environment
+Experience with Oracle (PL/SQL mainly) 
+Bash scripting in Unix\Linux
+Python knowledge
+
+Basic Requirements
+
+Bachelor's degree in computer science (or equivalent experience)
+Experience with SQL/relational databases
+Experience working with DBMS and ETL tools
+Familiarity with Agile approaches to development a plus
+Problem-solving and analytical skills
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 8 : 
+Skill Set Requirements:
+
+MUST HAVE
+very good working knowledge of SQL and ability to write database procedures/functions in database Procedural Language (for example PL/pgSQL, PL/SQL or T-SQL),
+experience in optimization of complex database queries/procedures, (knowledge about postgres DB tuning and Postgres DB performance optimization would be an asset),
+experience in data integrations across multiple systems/platforms with usage of ETL/ELT tolls ( like Informatica, Oracle Data Integrator, Xplenty, Talend, Pentaho, etc.)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 9 : 
+Proficient in writing and optimizing SQL statements
+Knowledge of MySQL features, such as its event scheduler
+Knowledge of limitations in MySQL and their workarounds in contrast to other popular relational databases
+Strong MySQL Queries tuning skills
+Write scripts using Shellscript to automate manual administrative tasks
+Maintain backups and perform point-in-time restorations
+Creating tables, alter column, and store procedure.
+Good Experience in Creating index and query optimizing
+Experience in MongoDB to SQL migration
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 10 : 
+Strong proficiency in MySQL database management
+Table design including normalization
+Database backups and recovery is a plus
+Experience with recent versions of MySQL
+Understanding of MySQL’s underlying storage engines, such as InnoDB and MyISAM
+Good Experience with Procedure and events in MySQL
+Experience with replication configuration in MySQL
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 11 : 
+• Understanding of MySQL’s underlying storage engines, such as InnoDB and MyISAM 
+• Experience with replication configuration in MySQL.
+• Knowledge of de-facto standards and best practices in MySQL 
+• Proficient in writing and optimizing SQL statements.
+• Knowledge of MySQL features, such as its event scheduler 
+• Ability to plan resource requirements from high level specifications. 
+• Familiarity with other SQL/NoSQL databases such as PostgreSQL, MongoDB, etc. {{if required}} 
+• Knowledge of limitations in MySQL and their workarounds in contrast to other popular relational databases
+• Proficient understanding of code versioning tools such as (Git / SVN) 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 12 : 
+Expertise with database design & development - maintain database standards & policies
+Experience in designing data models
+Hands-on experience with RDBMS and No-SQL databases
+Designing database backup, storage strategy etc.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 13 : 
+Plan & implement event triggers that will alert database performance or integrity
+Data definition & controls
+Database schema creation and management
+Test-data creation & management
+Performance measuring and tuning
+Identifying and managing database security issues
+Data warehousing and Cloud based data services expertise is a plus
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 14 : 
+
+Ability to plan, create/modify the Database and tables to support for development activity in a timely manner.
+Ability to write the stored procedure, function, trigger.
+Ability to create & manage the master tables.
+Understanding of complete database architecture.
+Understanding of Linux/Centos Server environment.
+MySQL
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 15 : 
+
+Design, implement, and monitor disaster recovery plans as it pertains to the production database environment.
+Ensure availability, reliability and security of the database in production and staging environments.
+Good Knowledge in Prepare documentations and specifications.
+Knowledge of MySQL features, such as its event scheduler.
+Perform capacity planning for database growth.
+Develop diagrams for data structure entity relationships and data flows.
+Prepare reports for databases and customize for specific needs.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 16 : 
+Must Have Skill
+Primary knowledge in - MySQL and secondary knowledge in Oracle/ SQL Server/ PL SQL.
+Good knowledge of MySQLs underlying storage engines, such as InnoDB and MyISAM.
+Good knowledge in Creating Database and tables with proper collation.
+Good knowledge in Table design, Queries, Procedures, functions, triggers development.
+Good knowledge in Identify bottlenecks in database performance and tuning database and SQL
+queries.
+Good Knowledge in Optimize MySQL queries, create/maintain database index.
+Good Knowledge in Database Backup and Restore concepts.
+PREFERRED SKILL (Added Advantage)
+Knowledge in Support with DB Server monitoring.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 17 : 
+Writing advanced SQL including some query tuning 
+ Experience in the identification of data quality 
+ Some database design experience is helpful 
+ Experience designing and building complete ETL/SSIS processes moving and transforming data for ODS, Staging, and Data Warehousing 
+ Rendering reports through SSRS 
+ Utilize ad-hoc techniques to perform on-the-fly analysis of data 
+ Proficient in how to deploy to and debug a production data integration environment using SQL Server Data Tools (SSDT) including SSIS packages 
+ Some knowledge of C#/VB.NET, web services and experience with ActiveBatch workload automation a plus 
+ Experience in Agile Scrum methodology for development planning and delivery 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 18 : 
+Design, build and deploy effective data integration solutions. 
+ Turn client requirements into technical solution designs 
+ Translate requirements and design technical code 
+ Implement stored procedures, SSIS packages and effective database queries 
+ Identify and test for bugs and bottlenecks in the data integration solution 
+ Design and build of robust reporting solutions from large data sets using either SSRS or data visualization tools such as Qlik 
+ Ensure the best possible performance and quality in the data integration solutions 
+ Provide support and fix issues in the data integration solutions 
+ Monitor and support ongoing operations and regular client deliverables 
+ Be accountable for quality, source control and continuous improvement 
+ Adhere to standards for code development, documentation and version control 
+ Embed test case creation and unit testing in development activities 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 19 : 
+Good knowledge in Data Warehouse concepts and different schema types like Star and Snowflake
+Strong experience in writing complex queries, performance tuning, query optimization and debugging.
+Must be proficient in writing PL/SQL procedures, triggers and packages.
+Strong experience in writing complex queries, performance tuning, query optimization and debugging.
+Good knowledge in DW concepts and experience in any ETL tool.
+Experience in Onshore-Offshore delivery model.
+Experience in Agile model.
+Excellent verbal and written communication skills.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 20 : 
+ Proficient in writing and optimizing SQL statements
+ Knowledge of MySQL features, such as its event scheduler
+ Knowledge on Joins ,complex query’s ,subquery’s and CTE.
+ Monitoring database efficiency using profilers.
+ Decent experience with recent versions of MySQL including percona.
+ Understanding of MySQL’s underlying storage engines, such as InnoDB and MyISAM
+ Handle common database procedures, Triggers, Functions, views etc.
+ Knowledge on replication configuration in MySQL
+ Knowledge of limitations in MySQL and their workarounds in contrast to other popular relational data
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 21 : 
+We are looking for a Senior Database Developer for SQL DB who can
+Draft design specifications and functional documentations for assigned database projects
+Design, develop and implement database systems based on clients requirements
+Create complex functions, scripts, stored procedures and triggers to support application development
+Develop security procedures to protect databases from unauthorized access
+Optimize database systems for performance efficiency
+Identify issues related to database performance and provide solutions
+Perform data back-up and archival on regular basis
+Test databases and perform bug fixes
+Troubleshoot database related issues in a timely fashion
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 22 : 
+Involved in logical and physical database design.
+Perform additional duties and responsibilities as required.
+Minimum of 3 to 5 years’ experience in Microsoft SQL (preferably including SSIS).
+Excellent analytical and organizational skills.
+Prior industry experience in a financial services environment is preferred but not required.
+Candidate should have a bachelor’s Degree.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 23 : 
+• Strong proficiency in MySQL database management
+• Decent experience with recent versions of MySQL 
+• Understanding of MySQL’s underlying storage engines, such as InnoDB and MyISAM 
+• Experience with replication configuration in MySQL.
+• Knowledge of de-facto standards and best practices in MySQL 
+• Proficient in writing and optimizing SQL statements.
+• Knowledge of MySQL features, such as its event scheduler 
+• Ability to plan resource requirements from high level specifications. 
+• Familiarity with other SQL/NoSQL databases such as PostgreSQL, MongoDB, etc. {{if required}} 
+• Knowledge of limitations in MySQL and their workarounds in contrast to other popular relational databases
+• Proficient understanding of code versioning tools such as (Git / SVN) 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 24 : 
+Good knowledge in Data Warehouse concepts and different schema types like Star and Snowflake
+Strong experience in writing complex queries, performance tuning, query optimization and debugging.
+Must be proficient in writing PL/SQL procedures, triggers and packages.
+Strong experience in writing complex queries, performance tuning, query optimization and debugging.
+Good knowledge in DW concepts and experience in any ETL tool.
+Experience in Onshore-Offshore delivery model.
+Experience in Agile model.
+Excellent verbal and written communication skills.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 25 : 
+Required Skills:
+
+10+ years in software development which includes experience in varying aspects of the development cycle, including design, coding, testing, and performance characterization.
+Experienced with developing backup/restore/database features for cloud database
+Experience with Scrum in an Agile development environment
+Prior experience with using Kubernetes to build and operate/manage the stateful application clusters
+Knowledge of infra structure as code for large complex systems - helm/terraform
+Experience in the public cloud technologies like AWS, mainly on EKS, EC2, IAM, VPC, S3
+Experience using telemetry and metrics to drive operational excellence will be an advantage
+Deep knowledge of object oriented programming and experience with at least one scripting programming language: Java, Python
+Ability to debug, optimize code, and automate routine tasks and tests
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 26 : 
+Extensive Hand-on Experience in the Design, Architecture, Set-up, managing, monitoring, and scaling SQL Databases on Microsoft Azure (SQL PaaS)
+Experience with Single Tenant and Multi-tenant Data Architecture
+Prior experience with converting Multi-Tenant Data model to single tenant model using Data Separation strategies is a plus.
+Experience with Data Sharding, Data Partitioning and other data separation and segregation strategies.
+Ability to review Stored Procs and Optimize them for efficiency.
+Ability to review Database schema and optimize them for performance and scale.
+Ability to re-write Stored Procs, Functions, Triggers etc. from ground up.
+Prior Experience with working in a Life Sciences and Healthcare environment where HIPPA compliance and governance is critical.
+Experience building data pipelines for inbound and outbound data.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 27 : 
+Expert in database design - both relational and dimensional data models (and preferably Data Vault) in Google BigQuery or similar Cloud technology.
+Proven recent experience developing, refactoring, optimization of SQL/T-SQL.
+Expertise in Administration and Development of On-prem or Cloud Databases, Warehouses and Lakes.
+Data preparation, wrangling and refactoring skills, for example as part of a Data Science pipelines
+Expert in the preparation, usage, visualization and editing of data in web, dashboard or other user interfaces (3-tier architecture, CRUD procedures, etc.)
+Excellent understanding of GCP Architecting and solution design.
+Excellent knowledge of devops tools like Ansible, Jenkins, Github ,Puppet, Chef etc.
+IT methodology/procedural knowledge; Agile/Scrum, DevOps and ITIL principles.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 28 : 
+Design, build, test and deploy Google Cloud data models and transformations in BigQuery, Data fusion environment (e.g. SQL, stored procedures, indexes, clusters, partitions, triggers, etc.)
+Optimize data views for specific visualization use cases making use of schema design partitions, indexes, down-sampling, archiving, etc. to manage trade-offs such as performance and flexibility.
+Protect the solution with appropriate Authorization and Authentication models, data encryption and other security components.
+Review and refine, interpret and implement business and technical requirements
+Ensure you are part of the on-going productivity and priorities by refining User Stories, Epics and Backlogs in Jira
+Manage code artefacts and CI/CD using tools like Git, Jenkins, Google Secrets Manager, etc.
+Estimate, commit and deliver requirements to scope, quality, and time expectations
+Deliver non-functional requirements, IT standards and developer and support tools to ensure our applications are a secure, compliant, scalable, reliable and cost effective
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 29 : 
+Design and develop databases
+Write Transact-SQL code to query, insert, update, and manipulate data
+Build tables, views, stored procedures and functions
+Perform data modeling and build database schemas
+Troubleshoot database-related problems and optimize database performance
+Establish backup and recovery procedures
+
+
+Requirements
+
+4+ years of experience as a SQL Server Database Developer
+Strong knowledge of T-SQL, SQL Server stored procedures, functions and triggers
+Experience with database design, modeling data structures and optimizing database performance
+Hands on experience developing ETL processes
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 30 : 
+Design stable, reliable and effective databases
+Modify databases according to requests and perform tests
+Solve database usage issues and malfunctions
+Develop stored procedures and SQL queries
+Work with developers to improve applications and establish best practices
+Gather user requirements and identify new features
+Perform database updates and migrations
+Ensure all database programs meet company and performance requirements
+Research and suggest new database products, services, and protocols
+Minimum 5 years of experience developing relational databases on Linux such as PostgreSQL
+Proven work experience as a Database developer In-depth understanding of data management (e.g. permissions, recovery, security, and monitoring)
+Proficient in creating complex stored procedures and SQL scripts
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
