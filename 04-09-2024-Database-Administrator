@@ -194,38 +194,141 @@ Perform database backup and recovery using native cloud tools
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 19 : 
-
+Installation, administration and maintenance of multiple SQL Server instances.
+Setup environments for use within the end to end software delivery lifecycle.
+Define, design & implement control procedures.
+Backup monitoring and continuous review of the backup strategy.
+Troubleshoot and resolve issues quickly.
+Performance monitoring and tuning.
+Query tuning (Index maintenance and management, housekeeping, memory, CPU, Disk I/O etc.)
+Planning and execution of Service Pack upgrades.
+Work alongside project teams (analysts, developers, testers and implementation managers) during software release and patching.
+Adhere to change management procedures.
+Working closely with other team members.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 20 : 
-
+At least five years of experience in database administration
+Experience with Linux Server environments is essential
+Extensive experience with RDBMS database technologies MySQL and MariaDB/ Postgres
+Extensive experience with NOSQL database technologies. MongoDB highly preferred
+Experience in working with Cloud Databases (Amazon RDS, Aurora)
+Experience in working with HA and DR database setups.
+Knowledge of scripting languages - Shell / Python for automation tasks
+Knowledge of DAM (Database Activity Monitoring) tools a plus 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 21 : 
-
+Experience with cloud services (AWS, Microsoft Azure) a plus
+Good communication, teamwork, and negotiation skills
+Familiarity with the main data manipulation languages and the principles of database design
+Ability to work to tight deadlines under pressure
+Good organisational skills
+Flexibility and adaptability
+Ability to create and maintain strong working relationships with colleagues and customers
+An understanding of information legislation, such as the Data Protection Act.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 22 : 
-
+Deploy databases with high-security standards. 
+Manage backup and recovery to comply with defined policies.
+Collaborate with stakeholders and refine the logical design so that it can be translated into a specific data model; further refine the physical design to meet system storage requirements.
+Support product team for their Database needs.
+Monitor the performance and optimize the databases to provide fast responses.
+Strong command of SQL and SQL Development
+Write database documentation, including data standards, procedures, and definitions for the data dictionary (metadata)
+Control access permissions and privileges
+Develop, manage, and test backup and recovery.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 23 : 
-
+ Handle large database estates and managed TB size of databases 
+• Define backup and restore strategy
+• Should have experience in Database Migration and up gradation and should be aware of the pre and post steps.
+• Proactively analysis the performance and tuning recommendation
+• Should be worked on High Availability Features (Always on, Replication, DB Mirroring, Log Shipping & DB Clustering) 
+ and should have good troubleshooting experience
+• Building rebuilding indexes, defragment indexes and update statistics
+• OS level activities related to database tasks and windows administration
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 24 : 
-
+Bachelor's degree or equivalent combination of education/experience
+Good working knowledge with SSIS, SSRS (bonus with PowerBI)
+In-depth understanding of SQL architecture
+Experience with replication topologies and components
+Expert knowledge in SQL clustering and availability groups
+Experience in both OLTP and Data warehousing environments
+Good experience implementing operational automation through SQL tools and PowerShell
+Experience troubleshooting Kerberos issues
+Experience with TDE encryption of databases
+Good experience with Azure Cloud support \ migration tasks (preferred)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 25 : 
-
+Manage daily DB Administration activities, installation, and configuration of SQL Servers
+Configure and monitor AlwaysOn/Clustering/Log Shipping/Replication
+Install, configure, and manage SQL clusters (FCI, AG, DAG)
+Manage backup and restores (Native and via third party tools like Rubrik) 
+Proficient in using T-SQL, troubleshooting queries and stored procedures. 
+Performance Tuning and problem resolution for root cause
+Code migration among different environments
+Implement DB security
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 26 : 
-
+SQL Server DBA duties and responsibilities
+Manage SQL Server databases
+Configure and maintain database servers and processes
+Monitor system's health and performance
+Ensure high levels of performance, availability, sustainability and security
+Analyze, solve, and correct issues in real time
+Provide suggestions for solutions
+Refine and automate regular processes, track issues, and document changes
+Assist developers with query tuning and schema refinement
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 27 : 
-
+Proven experience of 8+ years as a Database Administrator with a strong focus on PostgreSQL and strong understanding of database administration principles.
+Solid understanding of database concepts, data modeling principles and data security best practices.
+Experience working with cloud-based database management services (AWS, OCI) 
+Familiarity with data engineering principles and practices, including data extraction, transformation, and loading (ETL) processes.
+Working knowledge of SQL and proficiency in writing complex queries for data manipulation and retrieval.
+Familiarity with Oracle and Cassandra databases (a plus).
+Excellent analytical and problem-solving skills.
+Strong communication and collaboration skills to work effectively with cross-functional teams (developers, analysts, data engineers).
+Meticulous attention to detail and a commitment to accuracy.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 28 : 
-
+· Bachelor’s degree in Computer Science, Information Technology, or a related field (or equivalent experience).
+· Proven experience as a PostgreSQL Database Administrator or similar role in a production environment.
+· In-depth knowledge of PostgreSQL architecture, configuration, performance tuning, and troubleshooting.
+· Proficiency in SQL and database query optimization techniques.
+· Experience with database backup and recovery solutions, including point-in-time recovery (PITR) and disaster recovery planning.
+· Familiarity with database security best practices and regulatory compliance requirements (e.g., GDPR, HIPAA).
+· Strong scripting skills (e.g., Bash, Python) for automation and task orchestration.
+· Experience with database migration, replication, clustering, and high availability solutions (e.g., PostgreSQL replication, Patroni, Pgpool-II).
+· Excellent communication and collaboration skills, with the ability to work effectively in a cross-functional team environment.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 29 : 
+ Experience in AWS cloud, especially RDS/Aurora.
+ Experience in Performance Tuning.
+ Experience of cloud-based data warehouse systems, like Redshift or Snowflake is highly desirable.
+ Knowledge of NoSQL solutions.
+ Proven knowledge of physical and logical database design.
+ Experience with Nagios, Collectd, Grafana and DataDog.
+ Familiarity with JSON, YAML and Chef.
+ Proficiency in writing automation scripts using Shell, or Python.
+ Knowledge of Subversion, Git or other source code version control and repository tools.
+ Broad exposure to Open-Source tools for automation, monitoring, and provisioning.
+ Ability to work well under pressure.
+ Experience in working cross-functionally across many groups.
+ Excellent time management skills.
+ Must be self-motivated.
+ Ability to work in a fast-paced environment.
+ Excellent verbal and written communication skills.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 30 : 
-
+Bachelor's degree in Computer Science, Engineering, or a relevant field.
+At least 2+ years of proven experience as a Database Administrator or a similar role, with a strong track record in managing sophisticated, large/medium-scale database environments.
+Proficiency in database administration, performance tuning, and troubleshooting for MySQL.
+Experience with Linux administration and shell scripting.
+Deep understanding of database provisioning and maintenance, preferably within virtualized environments.
+Familiarity with database monitoring tools such as Grafana/PMM, Prometheus.
+Solid skills in database query languages and scripting, with the ability to automate routine tasks and optimize database operations.
+Knowledgeable in networking, security best practices, and optimizing database performance.
+Exceptional problem-solving abilities and the capacity to excel in a dynamic, collaborative atmosphere.
