@@ -8,59 +8,189 @@ RoadMap 2 :
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 1 : 
-
+ Experience as SQL Database Administrator.
+ Experience designing, implementing, and managing High Availability database solutions.
+ Experience working in Azure.
+ Experience in producing technical documentation.
+ Exposure to migrating existing SQL Server (on-premises) data loads to Cloud (Azure).
+ Expert knowledge of SQL scripting \ programming.
+ Prior work experience with performance tuning, query plan analysis, and indexing.
+ Knowledge of database auditing and performance monitoring solutions.
+ Understanding of Databricks, Azure Synapse, ADLS, CI\CD Pipelines, and SSIS ETL packages.
+ Knowledge of Data Storage: Delta Lake, Parquet, ORC, AVRO.
+ Understanding of Azure Network, Security groups, Load balancing, and Storage layers.
+ Oustanding working knowledge of IT Operations and support organizations would be an advantage.
+ Ability to work self-directly with less supervision is required.
+ Experience doing backups & restores using SQL Litespeed\Commvault is a plus.
+ Knowledge of ITIL processes and tools like Service Now, SILVA, and JIRA.
+ Having Microsoft Certification is a plus.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 2 : 
-
+Installing and configuring Microsoft SQL Server instances in stand-alone, clustered, and Always On environments along with database replication and mirroring configuration.
+ Experience in migrating databases to Azure SQL DB, Azure SQL DW, and Azure SQL Managed Instance.
+ Assisting with SQL Server Assessment\Planning\Migration\Upgrades\Automation\Performance Tuning, etc.
+ Troubleshooting, planning migration strategy, and DR planning of SSAS\SSIS\SSRS.
+ SQL DB Automation for DB Deployments working with PowerShell, ARM Templates, etc. using DB Versioning tools like Azure DevOps SSDT, Liquibase, etc.
+ Expertise in database troubleshooting, performance tuning, query tuning of SQL\T-SQL, partitioning, and filegroup.
+ Implementation and design database Indexes for high performance, as part of the migration\upgrade activities.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 3 : 
-
+ Work self-directly and in coordination with other application, developers to investigate, analyze and resolve issues.
+ Work with internal technical resources on project implementations and resolve business and technical issues.
+ Developing, managing, testing, and implementing database backup, recovery, and maintenance plans.
+ Performing database capacity management, Handling database incidents, and finding root cause analysis.
+ Recovering databases during Disaster Recovery testing and incidents.
+ Liaising with Project Managers, Developers, Application Support, Release, and infrastructure teams to ensure database integrity, security, and performance.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 4 : 
-
+Experience of administering other Open Source/NoSQL Databases such as Postgres, CosmosDB and MariaDB 
+ Experience of administering MSSQL/Oracle DBs or a willingness to learn other DB technologies outside of MongoDB 
+ Experience of working within Financial Services organization 
+ Experience of working in an Agile/SCRUM environment 
+ MongoDB Certification 
+ Coding skills (PowerShell, C#, Python) to automate tasks and interact with APIs 
+ Automation and Orchestration tools (Jenkins, Ansible, GIT, TeamCity, Azure Devops, Terraform, Mongo Atlas API)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 5 : 
-
+ Subject matter expert for MongoDB (primarily Atlas but also OnPrem) within the team, with the ability to share knowledge and train other team members who are primarily MSSQL/Oracle DBAs 
+ Work with dev teams across the business to identify and migrate on premise MongoDB instances to MongoDB Atlas 
+ On call cover as a part of a rotation with other members of the team 
+ Take proactive measures to monitor, trend, and tune MongoDB databases, to meet or exceed baseline stability and performance SLAs 
+ Create, implement, and maintain MongoDB Health Checks/Monitoring, and have a demonstrated ability to automate MongoDB health reporting/event notification, and corrective actions. 
+ Developing ‘best practice’ standards within the DBA team and working with local and remote development teams to ensure these standards are adhered to 
+ Working with dev teams to help designing and implement highly performant databases 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 6 : 
-
+SQL DB server installation, configuration, and administration.
+Use of SSMS and/or similar tools for advanced configuration and management.
+Use of Power BI for the creation and administration of advanced reporting.
+Use of stored procedures, scheduled tasks, and/or custom code for the automation of tasks, processes, or systems.
+Performance tuning and monitoring of database performance in a wide variety of use cases and scenarios (experience using Microsoft toolsets preferred)
+Complex and comprehensive design for disaster recovery and continuity planning (including high-availability architecture and SQL replication strategies)
+Implementation and configuration of SQL in a cloud or cloud environment.
+Advanced security configurations and audit controls (preferred experience in highly regulated environments).
+Implementation and administration of granular permissions and user-access controls
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 7 : 
-
+Working on tasks like backup and restore, query tuning, writing SQL Queries to analyze the Data.
+Experienced in SQL monitoring tool to monitor performance of live applications, App insight to check for performance and error and data modelling.
+Experienced in Preparing Reports, Involved in Database Admin tasks like Rebuilding the indexes and new data base design. 
+Experienced in performance bottlenecks on procedures and functions and rectifying issues. 
+Experienced in writing SQL Scripts as per the request from the client.
+Must be able to automate routine tasks using latest and greatest technology and the toolsets. 
+Must be able to work in a shift alongside other DBAs and operations engineer in 24x7 support setup.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 8 : 
-
+ 7+ years of work experience in Database Administration in Support and/or Consulting environments.
+ Database knowledge and working experiences in at least two of the following DB flavours: SAP HANA, Sybase ASE, DB2, MAXDB, Oracle.
+ Experience working in global teams.
+ Working knowledge and hands-on experience in SAP Basis administration would be an added advantage.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 9 : 
-
+ Plan and execute DB installation, migration, and upgrades.
+ Provide technical expertise in optimization and tuning of DBs.
+ Plan and implement system migrations from SAP internal network to clouds such as GCP, AWS.
+ Provide technical expertise in creating standards based on new requirements and ensure proper roll-out and documentation to the onboard global support teams.
+ Design solutions based High availability technology.
+ Provide inputs in developing automation to optimize system operations and reduce system downtime.
+ Work with new features within DBs such as SAP HANA and Sybase ASE and provide feedback to development to improve the product.
+ Work in projects involving global teams.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 10 : 
-
+Minimum 5+ years of experience as a Database Administrator.
+Proven experience working with AWS RDS and managing databases in a cloud environment.
+In-depth knowledge of SQL, PostgreSQL, and Oracle database administration.
+Strong understanding of database backup, replication and recovery procedures.
+Experience with database performance tuning and optimization in a multi database environment
+Excellent problem-solving and analytical skills.
+Ability to work independently and as part of a team.
+Experience supporting customers and providing technical guidance.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 11 : 
-
+Design, implement, and maintain database solutions on SQL Server, PostgreSQL, and AWS RDS (Relational Database Service)
+Perform daily tasks like backups, recovery, patching, performance tuning, and security configuration.
+Develop and implement database automation scripts to streamline administrative tasks.
+Monitor database health and proactively identify and resolve performance issues.
+Work collaboratively with application developers and other sustaining engineering to ensure efficient database utilization and performance.
+Provide technical support to internal support teams and healthcare customers regarding database troubleshooting.
+Participate in database migrations and ensure smooth data transfer.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 12 : 
-
+Proven working experience as a Database Administrator
+Hands-on experience with database standards and end user applications
+Excellent knowledge of data backup, recovery, security, integrity, and SQL
+Experience with database design, documentation, and coding.
+Previous experience with DBA case tools (frontend/backend) and third-party tools
+Familiarity with programming languages API
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 13 : 
-
+Determines database structural requirements by analyzing client operations, applications, and programming; reviewing objectives with clients; evaluating current systems; 
+Develops database solutions by designing proposed system; defining database physical structure and functional capabilities, security, back-up, and recovery specifications.
+Installs database systems by developing flowcharts; applying optimum access techniques; coordinating installation actions; documents actions.
+Perform day-to-day database administration and performance monitoring tasks
+Resolves database performance issues, database capacity issues, replication, and other distributed data issues.
+Ensure availability, performance, security, and operational efficiency.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 14 : 
-
+Manage and monitor SLAs for uptime and performance of the Oracle production environment.
+Perform root cause analysis, and resolution, for Oracle incidents
+Under limited supervision executes the responsibilities of the job and ensures that commitments and deliverables are met.
+Creates, develops, and reviews the physical data model created from the logical data model. Creates and implements the physical database design and structures.
+Actively participates in supporting test plans, test environments, benchmarks and statistics.
+Assist with the development of the technical architectures. Ensures the database management systems and tools support the defined architectures and business needs.
+Designs logical and physical databases or reviews description of changes to database design to understand how changes to be made affect physical database (how data is stored in terms of physical characteristics such as location, amount of space, and access method).
+Establishes physical database parameters.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 15 : 
-
+Bachelor’s degree in Computer Science, Information Technology, or related field.
+Proven experience as a MySQL Database Administrator or Developer.
+Strong proficiency in SQL and database management tools.
+Hands on Experience with database design, normalization, and optimization.
+Familiarity with MySQL replication, clustering, and high availability solutions.
+Experience with cron job scheduling on Unix/Linux systems.
+Proficiency in shell scripting and automation tools.
+Excellent problem-solving and analytical skills.
+Strong communication and collaboration skills.
+Ability to work effectively in a fast-paced environment and manage multiple tasks simultaneously.
+Attention to detail and a passion for ensuring data integrity and system reliability.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 16 : 
+Design, implement, and manage MySQL databases.
+Optimize database performance through query optimization, indexing, and other techniques.
+Troubleshoot database and application errors, and provide timely resolutions.
+Stay updated with the latest trends and technologies in MySQL, and database management.
+Document database designs, architecture, and processes.
+Design and implement cron jobs for automated tasks, such as database backups, data synchronization, and routine maintenance.
+Schedule cron jobs efficiently to minimize system impact and ensure smooth operation.
+Monitor cron job execution and troubleshoot any failures or errors.
+Optimize cron job performance and resource utilization.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 17 : 
-
+At least 5+ years of relevant work experience is required.
+Strong organizational skills as the team will be working on multiple projects simultaneously.
+Experience with Performance Tuning and Optimization.
+Knowledge of indexes, index management, statistics, data-at-rest encryption, secure connectivity
+Experience writing and executing stress tests on databases and services.
+Experience with databases, SQL, and ETL processes.
+Experience with backups restores and recovery models.
+Comfortable adapting to changing business situations and priorities.
+Experience working in AWS, Snowflake, Big query.
+Experience with automation, Terraform, Terragrunt.
+Excellent written and verbal communication skills.
+Proficiency in English
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 18 : 
+Develop, Configure and keep up database processes for applications.
+Knowledge of the logging, monitoring, database health, and performance features.
+Work with developers to offer suggestions for improving schema and query optimization.
+Create best practices for cloud database operations.
+Monitors user access and performance of the database systems.
+Real-time problem-solving and correction analysis
+Perform after-hours scheduled maintenance and support activities for release deployment of production systems.
+Perform database backup and recovery using native cloud tools
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 19 : 
