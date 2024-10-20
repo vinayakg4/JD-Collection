@@ -9,62 +9,268 @@ RoadMap 2 :
 
 Job description 1 : 
 
+Minimum Qualifications:
+
+Bachelor's degree in Computer Science or related technical field, or equivalent practical experience.
+Experience in software development using languages such as Java, C++, or Go.
+Proficiency in designing, testing, and maintaining software solutions.
+Effective interpersonal and communication skills.
+Preferred Qualifications:
+
+Master's degree or PhD in Computer Science or related technical field.
+Familiarity with workload orchestration systems like Kubernetes for deploying and managing services at scale.
+Experience with Big Data storage technologies, scalable Key-Value stores, advanced analytics systems, and distributed systems.
+Track record of problem-solving, delivering solutions, and managing complex projects in distributed systems or databases.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 2 : 
+
+dvising and guiding other organizational teams with a focus on automation, maintainability, reliability, performance, and security.
+Leading, advising, and analyzing load and performance testing exercises to identify performance bottlenecks and breakpoints, and determine infrastructure needs accordingly.
+Measurement, monitoring, and reporting of availability, latency, and overall system health based on SLIs/SLOs/SLAs.
+Engagement in capacity planning, demand forecasting, software performance analysis, and systems tuning.
+Managing the CI/CD pipeline and migration of client software releases through QA, UAT, and production environments to ensure high-quality, on time delivery of all dependencies.
+Documentation of tribal knowledge to reduce knowledge silos and reliance on institutional memory to support and maintain reliable systems
+Experience supporting Linux systems hosted in a cloud environment - We’re using AWS (specifically EC2, CloudFormation, RDS, ElasticCache, and S3, to name a few).
+Experience with web programming languages (Ruby on Rails a definite plus).
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 3 : 
 
+Requirements:
+Bachelor's degree in Computer Science, Information Technology, or related field.
+Microsoft Azure certifications such as AZ-104: Microsoft Azure Administrator or equivalent.
+Total 5 – 10 years overall experience with 3+ years of experience managing Azure cloud environments.
+Strong understanding of Azure services, including VMs, networking, storage, databases, and identity.
+Experience with PowerShell scripting for Azure automation and management.
+Excellent troubleshooting and problem-solving skills.
+Ability to work independently and collaborate effectively in a team environment.
+Strong communication and interpersonal skills.
+Attention to detail and a commitment to delivering high-quality results.
+Experience with Azure Operations with infrastructure as code (IaC) tools such as Terraform 
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 4 : 
+
+Preferred Qualifications:
+
+Master's degree or PhD in Computer Science or related technical field.
+10+ years of experience.
+Familiarity with workload orchestration systems like Kubernetes for deploying and managing services at scale.
+Proficiency in infrastructure as code tools such as Terraform and Pulumi for managing production infrastructure.
+Experience in building secret management, key management, identity, and related services.
+Experience operating and extending HashiCorp Vault at scale.
+Proficiency with AWS, Azure, and GCP for building production services.
+Experience in building or operating public key infrastructure (PKI).
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 5 : 
 
+Design, implement, and manage the network infrastructure, ensuring high availability and security.
+Oversee the maintenance of routers, switches, firewalls, and other networking equipment.
+Monitor network performance and troubleshoot issues to minimize downtime.
+Collaborate with IT teams to ensure the network supports the company's operations and business objectives.
+Implement and maintain network security measures, including VPNs, firewalls, and encryption.
+Stay updated on the latest network technologies and recommend improvements.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 6 : 
+
+Design, Implement, and Manage OpenStack Solutions: Develop and maintain OpenStack environments, ensuring they meet the needs of our clients and internal stakeholders.
+Infrastructure Automation: Utilize tools like Ansible, Terraform, and other automation frameworks to automate deployment and management tasks.
+Linux Administration: Manage Linux-based systems, including installation, configuration, and troubleshooting, ensuring optimal performance and security.
+Performance Tuning: Monitor and optimize the performance of OpenStack environments, including resource allocation, networking, and storage.
+Security Management: Implement and maintain security best practices within the OpenStack environment, ensuring compliance with organizational policies and industry standards.
+Collaboration: Work closely with cross-functional teams, including DevOps, Networking, and Security, to deliver integrated solutions that meet business requirements.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 7 : 
 
+Strong expertise in Linux administration and associated technologies.
+Proficiency in scripting and automation using Python, Bash, or similar languages.
+Experience with infrastructure as code (IaC) tools such as Ansible, Terraform, or Puppet.
+In-depth knowledge of networking concepts, storage systems, and virtualization technologies.
+Familiarity with cloud platforms like AWS, Azure, or GCP is a plus.
+Strong analytical and problem-solving skills.
+Excellent communication and teamwork abilities.
+Preferred Qualifications:
+Experience with containerization technologies like Docker and Kubernetes.
+Knowledge of monitoring and logging tools like Prometheus, Grafana, or ELK stack.
+Relevant certifications in OpenStack, Linux, or related technologies.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 8 : 
+
+Design, implement, and maintain continuous integration and deployment pipelines using GitHub Actions and Jenkins to automate build, test, and deployment processes.
+Set up and maintain monitoring and logging solutions to track application and infrastructure performance.
+Utilize Git for version control, including managing code repositories, branching, merging, and resolving conflicts.
+Perform Linux system administration tasks including installation, configuration, and maintenance of servers.
+Oversee AWS services such as EC2, Elastic Beanstalk, S3, CloudFront, RDS, EKS, and Redis
+Debug and identify issues in systems and applications, providing temporary fixes and implementing long-term solutions.
+Implement and manage automation workflows using Docker and other deployment automation tools.
+Configure and manage network security groups to ensure secure and efficient networking within cloud environments.
+Administer Nginx for web server management and load balancing to ensure optimal performance and high availability.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 9 : 
 
+Proficiency in Linux system administration and database management (Oracle and Postgres).
+Strong skills in SQL and SQL Plus for database management and scripting.
+Experience with AWS services and network security configurations.
+Hands-on experience with Docker, Nginx, and load balancing techniques.
+Familiarity with monitoring tools and performance analysis.
+Extensive experience in Linux system administration, DB Administration, MySQL and Postgres.
+Proven ability to debug, troubleshoot, and resolve issues, including applying temporary and permanent fixes.
+Experience with AWS services (EC2, Elastic Beanstalk, S3, CloudFront, RDS, EKS, Redis) and database management (MySQL, PostgreSQL).
+Familiarity with Aptible for compliance management.
+Expertise in Docker, Nginx, load balancing, and network security groups.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 10 : 
+
+Delivering original analysis and insights to case teams, typically owning all or part of an analytics module whilst integrating with a case team. Design, develop, and maintain efficient and robust data pipelines for extracting, transforming, and loading data from various sources to data warehouses, data lakes, and other storage solutions.
+Building data-intensive solutions that are highly available, scalable, reliable, secure, and cost-effective using programming languages like Python and PySpark.
+Deep knowledge of Big Data querying and analysis tools, such as PySpark, Hive, Snowflake and Databricks.
+Broad expertise in at least one Cloud platform like AWS/GCP/Azure.* Working knowledge of automation and deployment tools such as Airflow, Jenkins, GitHub Actions, etc., as well as infrastructure-as-code technologies like Terraform and CloudFormation.
+Good understanding of DevOps, CI/CD pipelines, orchestration, and containerization tools like Docker and Kubernetes.
+Basic understanding on Machine Learning methodologies and pipelines.
+Communicating analytical insights through sophisticated synthesis and packaging of results (including PPT slides and charts) with consultants, collecting, synthesizing, analyzing case team learning & inputs into new best practices and methodologies.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 11 : 
 
+Leads the team to follow software & data engineering best practices (e.g., technical design and review, unit testing, monitoring, alerting, source control, code review & documentation)
+Leads the team to deploy secure and well-tested software that meets privacy and compliance requirements; develops, maintains, and improves CI / CD pipeline
+Leads the team in following site-reliability engineering best practices: on-call rotations for services they maintain, responsible for defining and maintaining SLAs. Design, build, deploy and maintain infrastructure as code. Containerizes server deployments.
+Actively contributes to improve developer velocity
+Part of a cross-disciplinary team working closely with other data engineers, software engineers, data scientists, data managers and business partners in a Scrum/Agile setup
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 12 : 
+
+Expected to be an SME, collaborate and manage the team to perform.
+Responsible for team decisions.
+Engage with multiple teams and contribute on key decisions.
+Provide solutions to problems for their immediate team and across multiple teams.
+Manage and maintain EMC Storage Area Network (SAN) infrastructure.
+Perform regular monitoring and troubleshooting of SAN issues.
+Collaborate with cross-functional teams to design and implement SAN solutions.
+Ensure data integrity and availability by implementing appropriate backup and recovery strategies.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 13 : 
 
+Must To Have Skills:
+Proficiency in Oracle Database Administration (DBA).
+- Strong understanding of database management systems.
+- Experience in database installation, configuration, and maintenance.
+- Knowledge of backup and recovery procedures for databases.
+- Familiarity with performance tuning and optimization techniques for databases.
+- Good To Have Skills:Experience with Oracle Exadata.
+- Recommendation:Familiarity with SQL and PL/SQL programming languages.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 14 : 
+
+Expected to perform independently and become an SME.
+- Required active participation/contribution in team discussions.
+- Contribute in providing solutions to work-related problems.
+- Assist in defining requirements for data center technology components.
+- Design and build data center technology components.
+- Contribute to testing efforts for data center technology components.
+- Collaborate with cross-functional teams to ensure smooth operation of data center infrastructure.
+- Provide technical support and troubleshooting for data center infrastructure.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 15 : 
 
+Roles & Responsibilities:
+- Design, implement and maintain the infrastructure required for DevOps processes.
+- Collaborate with cross-functional teams to ensure the smooth functioning of the infrastructure.
+- Automate the deployment, scaling, and management of the infrastructure.
+- Ensure the security and compliance of the infrastructure.
+- Monitor and troubleshoot the infrastructure to ensure high availability and performance.
+
+Professional & Technical Skills:
+- Must To Have Skills:Experience in DevOps.
+- Good To Have Skills:Experience in cloud technologies like AWS, Azure, or GCP.
+- Experience in infrastructure automation tools like Ansible, Chef, or Puppet.
+- Experience in containerization technologies like Docker or Kubernetes.
+- Experience in monitoring and logging tools like Nagios, Prometheus, or ELK stack.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 16 : 
+
+Professional & Technical Skills:
+- - Must To Have Skills:Proficiency in Cloud Infrastructure.
+- - Good To Have Skills:Experience with AWS Administration.
+- - Strong understanding of infrastructure design principles and best practices.
+- - Experience with virtualization technologies such as VMware or Hyper-V.
+- - Familiarity with network protocols and security standards.
+- - Knowledge of storage systems and backup solutions.
+- - Proficient in scripting languages such as PowerShell or Python.
+- - Ability to troubleshoot and resolve infrastructure-related issues.
+
+Additional Information:
+- - The candidate should have a minimum of 3 years of experience in Cloud Infrastructure.
+- - This position is based at our Bengaluru office.
+- - A 15 years full-time education is required.nan
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 17 : 
 
+Professional & Technical Skills:
+- Must To Have Skills:Proficiency in Microsoft Endpoint Configuration Manager.
+- Strong understanding of infrastructure design and implementation.
+- Experience with network and server technologies.
+- Knowledge of cloud computing platforms such as Azure or AWS.
+- Familiarity with virtualization technologies.
+- Good To Have Skills:Experience with ITIL framework.
+- Experience with scripting languages such as PowerShell or Python.
+- Knowledge of security best practices in infrastructure design.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 18 : 
+
+Professional & Technical Skills:
+Must To Have Skills:Proficiency in ServiceNow IT Service Management.
+Strong understanding of infrastructure engineering principles and best practices.
+Experience with designing and implementing data center technology components.
+Knowledge of network protocols and security standards.
+Familiarity with virtualization technologies and cloud computing.
+Good To Have Skills:Experience with ITIL framework.
+Experience with automation tools such as Ansible or Puppet.
+Knowledge of scripting languages like Python or PowerShell.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 19 : 
 
+Professional & Technical Skills:
+Must To Have Skills:Proficiency in Elastic Stack (ELK).
+Good To Have Skills:Experience with Commvault Backup Administration.
+Strong understanding of data center technology components.
+Experience in designing and implementing data center solutions.
+Knowledge of troubleshooting techniques for infrastructure issues.
+Additional Information:
+The candidate should have a minimum of 5 years of experience in Elastic Stack (ELK).
+This position is based at our Bengaluru office.
+A 15 years full-time education is required.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 20 : 
+
+Roles & Responsibilities:
+Provide ongoing support to clients, ensuring the smooth functioning of systems and applications.
+Accurately define client issues and interpret and design effective solutions based on deep product knowledge of Oracle Database Administration.
+Collaborate with cross-functional teams to resolve complex technical issues and ensure timely resolution of client issues.
+Maintain accurate records of client interactions and technical issues, utilizing ticketing systems and other tools as required.
+Professional & Technical Skills:
+Must To Have Skills:Strong knowledge of Oracle Database Administration.
+Good To Have Skills:Experience with other database technologies such as MySQL or SQL Server.
+Experience in troubleshooting and resolving complex technical issues.
+Strong understanding of database architecture and design principles.
+Experience with database backup and recovery procedures.
+Excellent communication and interpersonal skills.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 21 : 
