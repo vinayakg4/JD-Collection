@@ -8,64 +8,240 @@ RoadMap 2 :
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 1 : 
+Bachelor's degree in Computer Science or related technical field, or equivalent practical experience.
+Experience in software development using languages such as Java, C++, or Go.
+Proficiency in designing, testing, and maintaining software solutions.
+Experience leading project teams and establishing technical direction.
+Experience managing projects involving multiple teams and organizations.
+Effective interpersonal and communication skills.
+Preferred Qualifications:
+
+Master's degree or PhD in Computer Science or related technical field.
+10+ years of experience.
+Familiarity with workload orchestration systems like Kubernetes for deploying and managing services at scale.
+Proficiency in infrastructure as code tools such as Terraform and Pulumi for managing production infrastructure.
+Experience in building secret management, key management, identity, and related services.
+Experience operating and extending HashiCorp Vault at scale.
+Proficiency with AWS, Azure, and GCP for building production services.
+Experience in building or operating public key infrastructure (PKI).
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 2 : 
+Bachelors degree in computer science, cybersecurity, or related field.
+5+ years of experience as a senior penetration tester, ethical hacker, or bug hunter, with expert-level understanding of security testing methodologies and techniques.
+3+ years of hands-on experience with security tools such as Static Application Security Testing (SAST) (e.g., Checkmarx, Synopsys, Snyk), 
+Dynamic Application Security Testing (DAST) (e.g., BurpSuite, WebInspect), Software Composition Analysis (SCA) (e.g., Mend, Snyk), 
+Run-Time Application Self-Protection (RASP) (e.g., Signal Sciences, Imperva), and vulnerability management tools.
+Extensive experience with bug bounty platforms (e.g., SynAck, BugCrowd, HackerOne) and a proven track record in managing bug bounty programs.
+Extensive experience supporting and evolving security automation, with proficiency in at least one programming or scripting language (Python, Perl, Go, JavaScript, C++).
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 3 : 
+Define and lead implementation guidelines and standards to ensure products are secure by default, perform security design review for new product features
+Drive shift left strategy across organizations, help team adopt best practices with in SDLC
+Advise product teams when they are implementing security controls and support the team throughout SDLC
+Able to drive continuous improvement within the SDLC with data analysis and insights
+Develop and oversee security programs like security tool selection, security requirements baseline, threat modeling, Learning and Development, etc.
+Audit teams practice and recommend areas where they can improve detection of security issues.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 4 : 
-
+Overall 15+ years of experience in software engineering, 5+ years of experience programming in at least two of the following languages: Java, C#, C, C++, JavaScript, Python, Ruby, Go
+5+ years of experience in a software security role such as pen testing, or architecture
+Organized and a self-starter - able to work under moderate supervision
+Strong negotiation skills - ability to influence decisions and guide behaviour
+Extensive knowledge of common vulnerabilities - able to explain and remediate the OWASP Top 10 vulnerabilities across multiple programming languages
+Deep experience with Amazon Web Services or Microsoft Azure to be able to advise teams on securing their deployments
+Experience with containers and Kubernetes to be able to guide best practice
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 5 : 
+YEARS OF EXPERIENCE:
+
+5-7 years of software development experience with B.E./B.Tech.
+5 years of software development experience with M.E./M.Tech.
+PREFERRED SKILLS AND QUALIFICATIONS:
+
+Knowledge of programming preferably in C++
+Experience with Product Security / information security
+Experience with Risk Management and Systems Engineering processes.
+Experience analyzing and documenting requirements
+Experience in developing threat model for products
+Strong understanding of product and system security aspects
+Hands on experience on pentest and using security assessment tools at code, system and network-level
+Knowledge on secure authentication, authentication and encryption mechanisms to implement in design and code
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 6 : 
+Understanding of network infrastructure, including firewalls, web proxy and/or email architecture- particularly as they apply in a mitigating control functionality.
+Experience with different cloud computing platforms and the cloud security framework. Ability to craft, recommend, plan, guide, and support implementation of innovative security solutions.
+Understand the current Medical Device market, including what customers want to see with regards to product security
+Understanding of back-channels typically used by threat actors for malicious activity.
+Understanding of different connectivity protocols and any risks involved with them.
+Superb communication, collaboration, and relationship building and collaborator engagement skills.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 7 : 
+4+ years of years experience in vulnerability management and penetration testing
+Hands-on experience managing:
+Vulnerability scanning tools
+Container and dependency (OSS libraries) scanning tools
+Docker and Kubernetes
+Security administration in AWS and Azure
+CI/CD and DevOps Tooling (Git, Jenkins, CircleCI)
+Infrastructure as code tools (Ansible, CloudFormation, Terraform)
+Experience in agile methodologies with secure software development life-cycle involving SAST & DAST tools (Coverity, CodeQL, SonarQube, Contrast)
+Knowledge of Network Security technology in areas of Firewall, IPS, VPN, Gateway security solutions (reverse proxies, WAF), DNS Security, DoH & DoT
+Experience working with a POSIX system such as Linux or macOS
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 8 : 
+Ensure engineering teams develop secure applications by applying secure coding best practices for cloud applications and creating training and procedural materials
+Perform security reviews and penetration tests - at design and implementation stages - and propose appropriate solutions for any security deficiencies
+Lead teams in threat modeling exercises to pressure test technical designs
+Leverage Sumo s own product, and other third party tools to build security and defense in depth into our product and software development lifecycle.
+Integrate and implement solutions improving Sumo Logics security posture
+Participate in security research, investigations, platform hardening, and audits
+Drive continual improvement and operational excellence for our security tools.
+Participate in on-call to provide coverage for security and platform components.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 9 : 
+PREFERRED SKILLS AND QUALIFICATIONS:
+Knowledge of programming preferably in C++
+Experience with Product Security / information security
+Experience with Risk Management and Systems Engineering processes.
+Experience analyzing and documenting requirements
+Experience in developing threat model for products
+Strong understanding of product and system security aspects
+Hands on experience on pentest and using security assessment tools at code, system and network-level
+Knowledge on secure authentication, authentication and encryption mechanisms to implement in design and code
+Knowledge of assessment and vulnerability ranking tools such as NIST and CVSS Knowledge of cybersecurity and data privacy is preferred, but not mandatory
+Strong oral and written communication skills.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 10 : 
+Develop and maintain a security architecture strategy, evaluate security technologies, and ensure compliance through design and architecture reviews.
+Provide full SDLC support for new product features developed by engineering and non-engineering teams, including threat modeling, design reviews, manual code reviews, and exploit writing.
+Conduct system security and vulnerability analyses, provide risk mitigation recommendations, and mentor team members in security best practices.
+Build automations or secure paved paths to make it easier for Product Security to scale with the business.
+10+ years of experience in an product security role
+Experience leading architectural changes or complex cross team efforts to mitigate security vulnerabilities
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 11 : 
+Implement and maintain SecDevOps practices throughout the entire Secure Development Lifecycle (SDL)
+Build and maintain automated security testing frameworks, including static analysis, dynamic analysis, and fuzz testing
+Implement and run secure CI/CD pipelines, incorporating security checks and controls at each stage
+Collaborate with product engineering teams to implement security-by-design principles and ensure consistency to SDL practices
+Develop and maintain security metrics to measure and improve SDL efficiency
+Monitor and triage incoming product security issues from our public bug bounty program
+Mentor and train development teams on SecDevOps best practices and tools
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 12 : 
+Experience with Linux and embedded systems security with strong growth mindset
+Strong programming skills in languages such as Python, Go, or Ruby, with experience in C/C++ for embedded systems
+Experience with DevOps tools and practices (eg, Jenkins, GitLab CI, Docker, Kubernetes)
+Experience implementing and running security tools such as SAST, DAST, SCA, and container security solutions
+Experience with agile development methodologies
+Experience with embedded systems security and IoT device security
+Experience with fuzzing, penetration testing, or static analysis
+Knowledge of AI and machine learning concepts, with experience applying them to security problems
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 13 : 
+9+ years of experience in an application security engineering or other similar role
+Extensive hands-on experience in performing manual and tool-assisted code reviews
+Extensive hands-on experience in integrating secure development practices into SDLC
+Extensive hands-on experience in integrating security tools in CI/CD pipelines
+Experience in Typescript, Python, Go or another programming language
+Experience in the development of security products or DevSecOps infrastructure
+Foundational understanding of container security and orchestration (Kubernetes, Docker)
+Familiarity with deployment automation tools such as Terraform, Helm etc
+Familiarity with threat modeling
+Strong written and verbal communication skills
+Desire to build an application security program and coach junior engineers
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 14 : 
+You will be responsible for leading and executing the Secure Software Development Lifecycle (SSDLC) for Cloud Software Group On-Prem and Cloud products to ensure that our software meets the customer 
+expectation of security robustness.
+You will provide guidance to product development teams on design changes as per security requirements.
+Manual Source Code Review primarily C and C++ programming languages
+Crash Exploitability Analysis - Analyze Crashes to Find Security Vulnerabilities using tools such as gdb (Good to have)
+Execute the penetration tests internally to identify security vulnerabilities
+Identify opportunities to prevent security problems at scale, Develop prototypes to prevent these security problems.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 15 : 
+5+ years of experience in software or firmware security, with a focus on SecDevOps and Secure Development Lifecycle implementation
+Deep knowledge of Linux and embedded systems security with strong growth mindset
+Strong programming skills in languages such as Python, Go, or Ruby, with experience in C/C++ for embedded systems
+Have experienced knowledge of embedded systems development concepts, including cross-platform development and build tools 
+bootloaders, kernel configuration, device drivers, device trees
+Experience with DevOps tools and practices (e.g., Jenkins, GitLab CI, Docker, Kubernetes)
+Experience implementing and running security tools such as SAST, DAST, SCA, and container security solutions
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 16 : 
+You will lead a team of security engineers for diverse types of product security related projects and workstreams
+You will drive and execute SDL best practices and its integration with the CI/CD, Agile and Waterfall development models
+You will create and deliver advanced security training and guidance to product engineers
+You will guide product development teams on design changes as per security requirements
+You have working knowledge on Mac and Linux along with security concepts
+You will establish and maintain thorough and accurate documentation of all work.
+You will communicate technical issues within scope of assignment.
+Drive negotiation in the interest of security.
+Will conduct reviews of specific security fixes, as necessary.
+You will conduct product penetration test in a non-disruptive way for IT/Cloud deployments, including exploit creation to demonstrate a proof of concept.
+You will validate the efficacy of defensive mechanisms, as well as the engineering adherence to security policies.
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 17 : 
+Version Control Tools: Git
+Operating Systems: Linux, MacOS, Windows
+API Tools: Postman
+Testing Tools: Burpsuite pro, Frida.
+Scripting Language: Python, bash, JavaScript or Golang. (You must be highly proficient in developing scripts and working POCs (Proof-of-concept))
+Excellent communication skills (Written and Verbal)
+Experience in in-depth understand of vulnerability classes, triaging them and offering technical remediation guidance to development teams.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 18 : 
+Skills Required-
+
+- You are independent and comfortable working in a fast-paced environment
+- You use excellent communication skills, on both technical and non-technical issues
+- Minimum 6 years in the field of product security
+- Have hands on knowledge in Python and Jenkins
+- Deep understanding of Vulnerability (CVE) analysis concepts
+- Have hands on knowledge in Network security, Browser security, TCP/IP model, PKI, Certificate management.
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 19 : 
+Qualifications
+Strong Product Security experience
+Experience in S-SDLC and Threat Modeling
+Strong passion for Product Security
+5-10 years of experience working on a security team
+Ability to program/script in at least one language; Python Django (preferred), Java, JavaScript, BASH, PowerShell
+Analytical with strong problem-solving skills and exercises good, balanced decision making
+Excellent written and verbal communication skills
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 20 : 
+
+1.Proactive identification and flagging of malicious code/security threads.
+2.Understanding threats and responding to incidents and escalations.
+3.Writing reports to document findings.
+4.Proactively identify new malware trends, spam and other abuse.
+5.Provide proactive inputs/ideas to improve the team's workflows.
+6.Ability to review Web/ Cloud / Android applications and SDK's by analyzing, unpacking and reverse engineering software that potentially compromises user privacy.
+7.Understand techniques utilized by malicious software to tamper with user machines and make removal more difficult.
+8.Ability to review escalations from internal and external sources and resolve escalations working independently and with cross-functional teams.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 21 : 
