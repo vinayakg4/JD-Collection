@@ -246,32 +246,122 @@ Job description 20 :
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 21 : 
 
+Support various Product Security research initiatives involving prototyping and proof of concepts for SiMD.
+Develop Product Security framework of applications that are based on Generative-AI.
+Familiarity with software security protections and mitigations.
+Experience with programming in at least one scripting language (e g Python, Ruby, Bash).
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 22 : 
 
+Passion for Security: You care about the craft of software security, understand the various ways in which a system may be vulnerable, and know how to apply best practices to defend against attackers using industry standards and frameworks.
+Operations Mindset: You understand how to leverage encryption, key management, monitoring, alerting, and automation to secure at scale while ensuring uptime.
+
+Technical skills:.
+4-6 years of professional experience in applied software security roles.
+Strong in OWASP top 10 security vulnerabilities, identifying security flaws in software, scoring the impact, and proposing a solution for developers.
+Experience leveraging cloud security tools as part of software architecture.
+Operational expertise in high scale, reliable 24/7, multi-tenant SaaS.
+Strong coding and debugging skills (Scala experience highly beneficial).
+Security certifications, experience in bug bounty/CTFs, reported CVEs, and experience with compliance frameworks and audits are all pluses.
+
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 23 : 
+
+Execute and refine security testing protocols, including penetration testing, Dynamic Application Security Testing (DAST), API security testing, web testing, and mobile testing.
+Automate high-fidelity end-to-end (E2E) testing for all API changes before production deployment.
+Integrate with existing engineering processes.
+Lead and execute threat modeling exercises across varying scope of the organization.
+Identify security gaps and control recommendations, including client and server-side controls.
+Design, review, and manage security controls, including user registration, authentication/authorization, password management, account takeover protection, and application layer threat detection.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 24 : 
 
+Ideally 8+ years of experience in QA, Network/IoT, or Offer Testing roles.
+Familiarity with Test Automation Scripting tools/languages.
+Familiarity with daily activity planning tools such as Atlassian Jira.
+Familiarity with either Agile or Kanban work environments.
+Bachelors degree or equivalent experience in related field.
+Experience with leading a team or technical leaership experience.
+Strong process development and reporting skills.
+Ability to successfully partner and collaborate across key functions including IT, product engineering, security, and privacy teams.
+Familiar with industry standards and best practices.
+Strong verbal and written communication skills.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 25 : 
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Bachelors degree in Computer Science, Information Security, or a related field.
+At least 4-7 years of experience in application penetration testing and cloud penetration testing.
+Proficiency with tools such as Burp Suite, Metasploit, Nessus, and AWS Security tools.
+Strong understanding of common web application vulnerabilities like SQL injection, XSS, and CSRF.
+Familiarity with cloud security concepts and technologies, particularly AWS and Azure.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 26 : 
+
+Mentor and guide junior penetration testers, providing technical expertise and leadership.
+Conduct in-depth security assessments of web applications, mobile applications, APIs, and network infrastructure.
+Utilize a variety of penetration testing tools and techniques to identify and exploit vulnerabilities.
+Generate detailed reports outlining findings, impact assessments, and remediation recommendations.
+Collaborate with stakeholders to prioritize security risks and develop effective mitigation strategies.
+Stay current with emerging security threats, trends, and best practices through continuous learning and research.
+Ensure compliance with regulatory requirements and industry standards such as OWASP, NIST, and PCI DSS.
+Drive continuous improvement initiatives to enhance the organization's overall security posture.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 27 : 
 
+Bachelors degree in computer science, electrical engineering, or related field.
+5+ years of experience in product security, with at least 3 years focused on OT systems, ICS, and related technologies.
+Expertise in ICS/SCADA systems, OT protocols (e.g., Modbus, DNP3), and industrial network security.
+Experience in Threat Modeling and Security Architecture Reviews for energy-related OT infrastructures.
+Experience with cloud-based architecture and integrating OT with cloud solutions.
+Should have expertise in Microsoft Azure, GCP, and AWS to secure cloud applications and SaaS products.
+Familiarity with BESS technology and energy security challenges.
+Ability to continuously assess application and infrastructure security maturity and develop improvement plans.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 28 : 
+
+Bachelors degree in computer science or related field. Equivalent work experience will be considered.
+Professional certifications such as CISSP, CSSLP, or similar.
+Core Product security and Software development background of 5+ years.
+Ability to articulate security requirements for build and delivery pipelines.
+Experience in Threat Modeling and Security Architecture Reviews as per industry standards.
+Experience working with energy-related companies or national lab institutions is desirable.
+Should have expertise in Microsoft Azure, GCP, and AWS to secure cloud applications and SaaS products.
+Experience in data security/governance initiatives in a highly regulated environment.
+Continuously assess the application security maturity and build enhancement plans.
+Soft skills - excellent communication skills with the ability to work collaboratively with cross-functional teams.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 29 : 
 
+Assist in the development of security-related abuse cases to identify security risks.
+Identify options for mitigating security-related risks, and assist the Systems Engineering team in evaluating these options.
+Support security activities in communications with regulatory bodies.
+Contribute to Medtronic’s understanding of current industry best practices and how they can be applied to ET Products.
+Applies advanced technical principles, theories and concepts. Support across the NS ET organization the development of processes, best practices leading to improve NS - ET position as it relates to Information and Product security.
+Works under consultative direction toward long range goals and objectives.
+Develops advanced technical ideas and guides their development into final product. 
+Lead / Coordinate / Execute/ Assist activities to sustain/ develop organic or inorganic security testing capabilities in alignment with Medtronic testing strategies.
+Maintains a high level of technical knowledge on security.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 30 : 
 
+Have at least 6 years of experience in Security Engineering
+You have a Full-time degree in Engineering (Preferably Computer Science related)
+Must have good verbal and written communication skills; ability to communicate optimally and clearly with different stakeholders in engineering teams
+You are an expert in at least three of these areas in security -Web, Network, Cloud, Cryptography
+You are capable of writing exploits for vulnerabilities identified in those respective areas.
+Deep understanding of application architecture and design principles
+Experience in design review and threat modelling activities
+Enthusiasm for staying up to date with the latest updates about security threats and solutions
+You have solid understanding of most common software vulnerabilities and standard secure coding practices
+Have excellent capabilities to identify security vulnerabilities and root cause analysis
+Have proficiency in programming language(s) like C++, C#, .NET
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
