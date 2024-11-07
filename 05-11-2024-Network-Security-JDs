@@ -193,32 +193,123 @@ Job description 16 :
 Job description 17 : 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Job description 18 : 
+Job description 18 :
+
+Minimum qualifications:
+Bachelor's degree in Network Engineering or Telecom Engineering, a related technical field, or equivalent practical experience.
+2 years of experience in Routing protocols, Network troubleshooting and Multi protocol Label Switching.
+Preferred qualifications:
+Experience working in a customer-facing role at an Internet Service Provider, carrier, content network, or Content Delivery Network.
+Experience working with cloud networking (VPC, Security Group, Access List, stateful/stateless firewall, etc.) and understanding of network operations at scale.
+Knowledge of Software Defined Networking, including the understanding of the differences between control plane, data plane, and management plane.
+Understanding cloud computing, Linux server environments, network design and deployment, managing large scale infrastructure.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 19 : 
 
+Review existing processes and recommend changes or institute new processes as necessary, including the areas of monitoring, upgrades, and tuning.
+Participate in application customization discussions and technical implementations as it pertains to network engineering.
+Management of both remote-access and site-to-site VPN tunnels in a Palo Alto / Cisco environment.
+Debugging and troubleshooting of any IPsec/network related issues VPN access.
+Working directly with customers to assist their network teams in establishing connectivity.
+Monitoring and management of Palo Alto Networks IPS devices.
+Generate high-quality project documentation, such as architecture designs, implementation plans, design documents, test plans, etc.
+Provide documentation, training and technical escalation applicable for day-to-day administration and change requests for network configuration.
+Document maintenance activities, failure analysis results, incident reports, penetration analysis, audit results and activities related to management of small-scale projects.
+Provide technical escalation and be on call during designated periods.
+Work with engineering on release management and testing within a SaaS environment.
+Diagnose, as appropriate, complex systems issues with multiple influencing factors which may require interaction with vendors to resolve problems.
+Ability to work in a highly collaborative team environment as well as being productive and accountable independently.
+
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 20 : 
+
+Deploys, migrates, and documents post-sales engagement with customers based on C1 best practices
+· Collaborates with world class network integrators
+· Assists in the delivery of support and services to customer’s expectations as proposed
+· Participates in the design, implementation and administration of Cisco, Extreme Networks, Juniper, HPE Aruba, and other C1 Core manufacturers/Partners infrastructure and related solutions
+· Troubleshoots high end issues with networking, security and wireless infrastructures
+· Assists in determining specific customer network requirements
+· Assists in developing specific network, security and wireless solutions
+· Assists in developing detailed implementation plans
+· Conducts architecture chalk talks and design concepts
+· Facilitates and conducts product demonstrations, webinars and presentations to customers
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 21 : 
 
+Maintain essential IT operations, including Windows Servers, VMware & RHEL Operating Systems, security tools, applications, servers, email systems, laptops, desktops, software, hardware and AV systems
+Troubleshoot operational issues, escalations and resolve business partner issues in a timely manner with strong collaboration and care for business priorities.
+Maintain internal infrastructure requirements including, laptop and desktop computers, servers, printers, phones, security updates; support internet, intranet, LANs, WANs, and network segments
+Collaborate with business teams and other IT teams to ensure effectively manage identities and access privileges
+Identify, design and implement solutions for new and improved processes and provide a clear picture of possible outcomes
+Interact with the help desk and other teams to assist in troubleshooting, identify root cause, and provide technical support when needed
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 22 : 
 
+Implement and manage branch side Switch - VLANs, VTP, and trunking, Ensure network availability, performance, and security.
+Troubleshoot branch WAN issues using tools like ping, traceroute, and SNMP..
+Provide L1 support for branch networks, resolving hardware and software issues for Network devices.
+Ensure branch network devices are compliant with customer security policies.
+Participate in network upgrades, migrations, and projects.
+Collaborate with cross-functional teams to resolve network-related issues.
+Identify and resolve network-related issues using logical troubleshooting methodologies.
+Analyse network logs, packet captures, and performance metrics, Escalate complex issues to senior engineers.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Job description 23 : 
+Job description 23 :
+
+Level 2-3 support of firewall technologies includes Fortinet firewalls, Palo Alto Firewalls, Google Cloud, AWS firewalls &amp; other next-gen firewalls.
+ Hands-on experience on centralized management of firewalls through Panorama, Forti-Manager etc.,
+ Working knowledge on handling security related issues on cloud environments primarily on GCP, AWS, etc.,
+ Hands-on experience handling implementation and troubleshooting of applications onboarded on WAF. Product based experience on Imperva, Cloudflare, GCP, Amazon WAF would be value added.
+ Must have experience on handling Zscaler web proxy environment.
+ Must have experience on handling Cloud networking environment either on GCP, AWS handling on NSG, Application Gateway, Load Balancer, Peering etc.
+ Must have experience in handling and troubleshooting Client to site VPN environment.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 24 : 
 
+Responsible for maintaining all configuration templates for respective equipment
+Perform periodic proactive tests on the equipment and systems under their command to ensure
+compliance to State IT and Security Policy and maximize user satisfaction
+Would be monitoring independent of NMS tools to ensure better network uptime and performance
+Would be responsible for preparing the change management document for approval
+Would be responsible for backing up all network related configurations on a regular basis
+Would be upgrading the necessary and recommended IOS on all crucial Network Eqpt.in the DC
+Troubleshooting and providing route cause analysis for network related incidents
+Would be interacting with SWAN team for any escalations and support related to network.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 25 : 
 
+ Should have hands on experience on Switches and Routers.
+· Should have knowledge of OSPF, BGP & Static route.
+· Should have knowledge of Vlan , Trunk configuration.and OSI Model
+· Should have experience in any network monitoring tool
+· Should be able to modify & manage current policies. Monitor Traffic pattern & BW.
+· Should be able to understand & Troubleshoot incidents related to Firewall
+· Should be able to understand & manage Active-Passive configuration of devices.
+· Should be able to upgrade devices firmware
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 26 : 
+As a Network & Security Engineer you will be required to work with customers from multiple industries. You will be responsible for various tasks including implementation, configuration and support of networking devices and providing operational technical support to the customer.
+
+Roles & Responsibilities
+Installation and configuration of Network and Security devices.
+Responsible for on-site or remote implementation / assistance as required.
+Communicating and collaborating with various members of customer and internal teams.
+Ability to explain complex technical concepts/issues in a simple, relevant manner.
+Maintaining network inventory, contracts and track changes.
+Creating monthly reports, highlighting areas of concern, providing suggestions, resolving and closing issues.
+Requirement
+Knowledge on routing and switching
+Basic knowledge on firewall technology
+Basic knowledge on wireless technology
+DC experience would be plus
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 27 : 
@@ -263,5 +354,4 @@ Participate in the planning and execution of disaster recovery and business cont
 Configure, manage, and troubleshoot Cisco networking devices, including routers, switches, and firewalls, to ensure the security and integrity of our network infrastructure.
 Implement and maintain security policies, access controls, and encryption protocols to protect against unauthorized access and data breaches.
 Monitor network traffic and security alerts generated by Cisco security appliances to identify and respond to potential security threats in a timely manner.
-Collaborate with other IT teams to integrate Cisco, Palo Alto and Zscaler security solutions into existing infrastructure and applications
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Collaborate with other IT teams to integrate Cisco, Palo Alto and Zscaler security solutions into existing infrastructure and applications------> Based on all this data, Give me all primary and associated skills that I need to test a candidate as Network Security Engineer
