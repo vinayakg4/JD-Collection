@@ -128,57 +128,178 @@ Promote ethical use and governance of generative AI internally.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 13 : 
+Design, test, and optimize prompts for various NLP tasks using large language models (LLMs).
+Work with NLP researchers to fine-tune prompts for transformer models such as GPT, LLaMA, and PaLM.
+Conduct evaluations using zero-shot, few-shot, and chain-of-thought prompting techniques.
+Build prompt libraries and experiment frameworks for reproducible research.
+Collaborate with ML engineers to integrate prompts into production pipelines
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 14 : 
+Job Description:
+
+Craft tailored prompts to generate marketing content, ad copy, and SEO-rich articles.
+Analyze performance of generated content across campaigns and adjust prompts accordingly.
+Collaborate with content strategists to understand voice, tone, and brand requirements.
+Stay updated with trends in generative AI and apply new techniques to improve copy.
+Conduct A/B testing to evaluate prompt effectiveness in user engagement and conversion.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 15 : 
+Develop prompts to extract, summarize, and review legal documents.
+Implement prompt chains for clause extraction, contract comparison, and risk identification.
+Ensure prompts comply with legal standards and ensure data privacy.
+Collaborate with legal advisors to validate AI outputs for accuracy and relevance.
+Build tools to automate repetitive legal review tasks using structured prompt templates.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 16 : 
+Design prompts that power intelligent chatbots and virtual assistants.
+Optimize prompts for handling complex user queries with minimal human escalation.
+Integrate dynamic variables into prompt templates for personalized responses.
+Test chatbot performance using customer support scenarios and logs.
+Collaborate with support agents to build a knowledge base and refine prompt behavior.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 17 : 
+Research and develop AI-driven conversational models
+Fine-tune large language models (LLMs) for specific applications
+Analyze model performance and improve response accuracy
+Design prompts and workflows for optimal user interaction
+Integrate ChatGPT into web, app, or backend systems
+Conduct testing for bias, safety, and reliability
+Maintain and update datasets for training
+Work with APIs and cloud platforms (OpenAI, AWS, Azure, etc.)
+Collaborate with data scientists, product teams, and UX designers
+Stay updated with the latest in AI, NLP, and ML technologies
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 18 : 
+Develop, test, and refine prompts for AI tools to produce high-quality outputs.
+Optimize prompts for various use cases (content generation, image creation, automation)
+Collaborate with cross-functional teams to integrate AI tools into processes.
+Analyze AI output quality and continuously improve prompt performance.
+Stay updated with new AI models, tools, and prompt engineering techniques.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 19 : 
+6 months to 1 year of experience in prompt engineering or related AI field.
+Familiarity with AI platforms like ChatGPT, DALL·E, Midjourney, or similar.
+Strong written communication skills and attention to detail.
+Ability to think creatively and analytically.
+Basic understanding of AI/ML concepts is a plus.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 20 : 
+Job Title: Prompt Engineer
+Location: Bengaluru, KA (Hybrid)
+Duration: 12 Months (Possible extension)
+Job Type: Contract Role
+Job Description:
+Role Overview:
+Client is looking for a Prompt Engineer to enhance and optimize AI-driven interactions, particularly for Generative AI applications, Chatbots, and Large Language Models (LLMs).
+The ideal candidate will have expertise in natural language processing (NLP), machine learning (ML),
+and prompt engineering to fine-tune AI responses, improve contextual accuracy, and enhance user engagement.
+Required Skills & Experience:
+Technical Expertise:
+3-5+ years of experience in AI, NLP, or Conversational AI.
+Strong understanding of Generative AI, NLP, and LLMs.
+Proficiency in Python, Prompt Engineering techniques, and AI model fine-tuning.
+Knowledge of LangChain, Hugging Face.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 21 : 
-
+Create prompts for generating financial reports, summaries, and investment insights.
+Ensure compliance with regulatory language and terminology in all generated content.
+Use structured data inputs to create dynamic financial prompt templates.
+Test outputs for factual correctness, consistency, and tone.
+Collaborate with financial analysts to refine prompt accuracy and reduce hallucinations.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 22 : 
+Scripting & Data Handling:
+Strong experience in Python, PowerShell, or JavaScript for AI model interactions.
+Familiarity with APIs, embeddings, and RAG-based solutions.
+
+AI Ethics & Responsible AI Practices:
+Ability to fine-tune prompts for security, compliance, and enterprise requirements.
+
+Preferred Qualifications:
+Bachelor’s/Master’s degree in Computer Science, AI, Data Science, or related fields.
+Familiarity with AI-driven business applications in industrial automation, supply chain, or customer engagement.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 23 : 
 
+Build prompts for summarizing patient notes, diagnoses, and treatment plans.
+Ensure outputs maintain HIPAA compliance and medical confidentiality.
+Develop diagnostic support tools using structured and free-text clinical inputs.
+Collaborate with medical experts to validate the accuracy of generated summaries.
+Evaluate prompts using accuracy, recall, and hallucination metrics.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 24 : 
+Develop, test, and optimize prompts to enhance the performance and reliability of AI models.
+Conduct research on prompt engineering techniques, model interpretability, and fine-tuning methodologies.
+Collaborate with data scientists, NLP engineers, and product teams to refine AI-generated outputs.
+Design and implement prompt evaluation frameworks and metrics to measure effectiveness.
+Stay up to date with advancements in large language models (LLMs) and natural language processing (NLP).
+Analyze AI model behavior and provide insights to improve performance and mitigate biases.
+Contribute to the development of tools for automated prompt generation and refinement.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 25 : 
+PhD in Computer Science, Artificial Intelligence, Machine Learning, NLP, or a related field.
+Strong understanding of large language models, prompt engineering, and model fine-tuning techniques.
+Experience working with LLM APIs such as OpenAI, Anthropic, or similar.
+Proficiency in Python and familiarity with NLP libraries.
+Expertise in prompt crafting, contextual learning, and instruction tuning.
+Strong analytical skills with experience in designing experiments for AI evaluation.
+Ability to work in a fast-paced environment and contribute to cross-functional teams.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 26 : 
+Experience with Lang chain.
+Hands-on experience with LLMs (Large Language Models) and advanced techniques such as RAG (Retrieval-Augmented Generation), Fine Tuning, Multi-Stage Reasoning, etc.
+Knowledge of Prompt Engineering methodologies.
+Familiarity with vector databases including Azure AI Search.
+Experience with Text to SQL conversion.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 27 : 
+Design and implement AI applications using Python and AI frameworks.
+Craft sophisticated prompt engineering strategies to maximize model performance and user experience
+Integrate AI capabilities into existing business workflows and applications
+Build specialized CI/CD pipelines for AI model lifecycle management
+Implement containerization (Docker) and orchestration (Kubernetes) for resilient production systems
+Optimize resource utilization and system performance in AI deployments
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 28 : 
+Design data pipelines connecting AI systems with SQL/NoSQL databases
+Implement efficient data storage and retrieval patterns for AI applications
+Monitor emerging developments in GenAI, agentic systems, and prompt engineering
+Experiment with novel AI methodologies to enhance solution capabilities
+Contribute to the organization's AI strategy and technological roadmap
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 29 : 
+Experience with LLMs and AI techniques, including prompt engineering and retrieval
+Experience automating processes with workflow automation tools like Zapier
+Strong analytical skills with experience using data to inform decision making
+Excellent project management skills, including proficiency in project management tools.
+Strong interest in the intersection between AI and growth, and the emergent capabilities and applications of LLMs
+Comfortable moving fast in a startup where roles and responsibilities are fluid
+Familiarity with Python and JavaScript preferred
+Superb written and verbal communication skills.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 30 : 
+Architect, develop, and deploy cutting-edge generative AI models for diverse applications.
+Integrate LLMs and other AI-driven solutions into our product ecosystem.
+Optimize and fine-tune models for efficiency, accuracy, and scalability.
+Collaborate with cross-functional teams to identify AI use cases and implement innovative solutions.
+Ensure compliance with AI governance, ethical AI practices, and security standards.
+Stay updated with the latest advancements in AI research, frameworks, and tools.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
