@@ -18,6 +18,7 @@ Manage and maintain code repositories using Git.
 Develop and maintain containerized applications with Kubernetes.
 Write and maintain Perl scripts.
 Work with teams to integrate automated testing and deployment processes
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 2 : 
 
@@ -35,6 +36,7 @@ Proficiency in Java and frameworks like Spring and Hibernate.
 Experience with Kubernetes for container orchestration.
 Proficiency in Perl scripting is a plus.
 Experience with CI/CD tools (e.g., Jenkins).
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 3 : 
 Established in 2019, CS India is one of the country’s fastest growing Non-Bank Financial Company (NBFC) lenders, with verticals in wholesale, direct lending and tech-enabled partnerships with Non-Bank 
@@ -49,113 +51,415 @@ Contribute to innovative POCs with our data & engineering teams.
 Remain flexible towards technology approaches to ensure that the best advantage is being taken by new technologies.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 4 : 
+Core Banking Fintech Engineer
+Design and maintain APIs and microservices for digital banking platforms.
+Ensure seamless integration with core banking systems.
+Collaborate with product teams to deliver scalable financial features.
+Build secure and compliant transaction flows.
+Optimize systems for high throughput and low latency.
+
+Technical Skills: Java, Spring Boot, Oracle DB, RESTful APIs, Docker, Kubernetes, Kafka
+
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 5 : 
+- Analysis of requirements, creating Functional Specification
+- Definition of Process flows, User Interface and Reports based on requirements
+- Should participate in Interface Study (File and Real Time interfaces)
+- Provide functional and domain related inputs for creation of Test scenarios and Test cases
+- Review Business Scenarios, Test Scenarios and Test Cases
+- Provide content for creation of targeted Demos and Presentations for prospective clients
+- Participate in demos and requirements discussions to prospective clients
+- Should have knowledge on Database especially writing SQL queries
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 6 : 
+Build financial assistant bots using NLP frameworks.
+Integrate with banking systems for balance, support, and insights.
+Ensure conversational flows are secure and GDPR-compliant.
+Personalize responses using user financial behavior.
+Handle escalations to human agents.
+Ensure regulatory traceability and audit logs.
+Generate compliance reports for authorities.
+Integrate with internal policy engines.
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 7 : 
+Drive the overall architecture for the Mastercard Commercial Solutions platform using your expertise in microservices-based architectures for the fintech industry.
+Ensure that your solutions use 12-factor application design principles.
+Design enterprise-grade APIs for services that follow Mastercard best-practices.
+Design and maintain technical blueprints and service descriptions for your solutions.
+Incorporate high-availability and system resiliency into your solutions to maximize up-time and capacity.
+Partner with senior technical and product leaders for the platform on how to deliver on your designs.
+Perform reviews to ensure teams are following your designs.
+Collaborate with fellow principal engineers, service architects, development teams, operations, and product owners.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 8 : 
+Job Requirements:
+You have demonstrated experience architecting solutions based on platform-as-a-service (PaaS) and containers, including PCF, Kubernetes, and cloud-native technologies.
+You have contributed to the design & implementation of high transaction volume, financial (banking, payment) systems that operate at global scale and extreme up-time requirements.
+You have experience with web technologies including HTML5, CSS, Javascript, and front-end frameworks such as Angular.
+You have extensive experience in designing and building global-scale, back-end micro services using Java, Spring, Spring Boot, Pivotal Cloud Foundry, Kafka, RabbitMQ
+You have a deep understanding of storage technologies such as Oracle, PostgreSQL or SQL Server, and how to effectively leverage them at massive scale.
+You have experience with automated testing and successfully releasing software in a continuous delivery model using Git.
+You enjoy working in an Agile environment focused on continuous improvement.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 9 : 
+Harden AWS/Azure/GCP accounts for fintech usage.
+Build guardrails using policies and controls.
+Implement VPC segmentation and secure peering.
+
+Role Qualifications and Requirements:
+Bachelor’s degree in Computer Science, IT, or related field.
+1-3 years of backend development experience in an object-oriented programming language.
+Strong knowledge of Git and branching strategies.
+Excellent problem-solving skills and attention to detail.
+Strong communication and collaboration skills.
+Ability to work independently and as part of a team.
+Eagerness to learn new technologies and continuously improve.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 10 : 
 
+Personal Finance App Engineer
+Create budgeting and expense tracking modules.
+Integrate bank accounts using open banking standards.
+Use AI to provide savings tips and financial nudges.
+Enable user-level encryption for privacy.
+Offer seamless account switching and imports.
+
+Technical Skills: .NET Core, GraphQL, SQL Server, AWS S3, RabbitMQ, React, RESTful Services.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 11 : 
 
+Build APIs for lending, insurance, or payments as-a-service.
+Create SDKs and documentation for partner integrations.
+Enable modular service orchestration across use cases.
+Ensure uptime and latency SLAs for partner access.
+Monitor usage analytics and provide observability tools.
+Proficiency in Java and frameworks like Spring and Hibernate.
+Experience with Kubernetes for container orchestration.
+Proficiency in Perl scripting is a plus.
+Experience with CI/CD tools (e.g., Jenkins, GitLab CI).
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 12 : 
+Machine Learning Fintech Engineer
+Build credit scoring and fraud detection models.
+Use historical data for customer segmentation.
+Deploy ML models using MLflow or similar frameworks.
+Monitor data drift and retrain schedules.
+Comply with explainability and bias mitigation requirements.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 13 : 
+Build intuitive UIs for trading, lending, or banking dashboards.
+Use React, Vue, or Angular with a focus on security and UX.
+Integrate charts, graphs, and data grids with real-time updates.
+Ensure accessibility and responsive design.
+Work with backend teams on API contracts.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 14 : 
-
+Responsibilities:
+Build awesome end-user experience using a combination of UX design + Use case flow + Right UI frameworks.
+Build common web applications using the right frameworks for consumption by desktop, and mobile devices.﻿
+Work with the product team to understand the end-user personal and build intuitive UI flows.
+Follow Agile development model to incrementally build out the applications with regular reviews with Product.
+Must haves:
+2+ years web development technologies including HTML5, Javascript, CSS Experience with Single Page Application frameworks (React, Angular etc)
+Working knowledge of Object Oriented JavaScript and Functional JavaScript.
+JavaScript Concepts like Promises, Closures
+Strong problem solving skills
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 15 : 
+Taking complete ownership and leading the outcome - of our most demanding, cross-functional projects
+Working with a diverse team of smart Engineers - who are always hungry for challenges
+Mentoring team members on advanced technical issues - helping them achieve greatness too
+Bringing in technical influence & best practices to multiple teams - increasing their productivity and effectiveness by sharing your deep knowledge and experience
+
+Requirements:
+
+2+ years of experience as an engineer and/or lead solving real-world customer problems
+BE / B.Tech /M.Tech from a premier institute - preferably in Computer Science
+Outstanding problem-solving abilities - not just in Computer Science, but raw smartness
+Strong expertise in - coding, data structures, algorithms, low-level class & DB design, high-level system design, and architecting for high scale using distributed systems.
+Champion best practices of software engineering - continuous integration, delivery, and deployment
+Collaboration skills - good written & verbal communication, growth mindset, fast learning
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 16 : 
+Model credit, market, and operational risk using real-time data.
+Build risk dashboards for internal compliance.
+Work closely with quants and data scientists.
+Integrate with internal fraud detection engines.
+Support stress testing and regulatory audits.
+Technical Skills: React.js, Flask, Pandas, REST APIs, JWT, OAuth2.
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 17 : 
 
+Required Qualifications
+
+2 to 5 years of hands on experience on Java, J2EE, Spring, Web Services (REST JSON, SOAP)
+Fulltime Bachelor and/or Master degree in Engineering with a minimum of 60% grade
+Worked on building payment applications, online transaction processing and transaction switching, Payment Gateways
+Experienced with Network Schemes certification like Visa, Mastercard, Amex
+Experience with Junit
+The ability to work in teams, global environment, partner effectively with cross-functional teams, and manage multiple deliverables concurrently
+Demonstrated ability and experience in the entire product development cycle: from design, implementation, test and debugging, to deployment and maintenance
+Strong problem-solving skills and the ability to think outside the box
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 18 : 
+Requirements-
+
+5 years of experience in the art of writing code and solving problems on a Large Scale (FinTech experience preferred).
+B.Tech, M.Tech, or Ph.D. in Computer Science or related technical discipline (or equivalent).
+Excellent coding skills – should be able to convert the design into code fluently. Experience in at least one general programming language (e.g. Java, C, C++) & tech stack to write maintainable, scalable, unit-tested code.
+Experience with multi-threading, concurrency programming, object-oriented design skills, knowledge of design patterns, and huge passion and ability to design intuitive modules, class-level interfaces and knowledge of Test driven development.
+Good understanding of databases (e.g. MySQL) and NoSQL (e.g. HBase etc).
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 19 : 
+Fintech Infrastructure Engineer
+Design and manage cloud-native infrastructure using Terraform and Kubernetes.
+Ensure high availability, disaster recovery, and CI/CD pipelines.
+Implement monitoring using tools like Prometheus and Grafana.
+Collaborate with security teams for network isolation and WAF rules.
+Optimize cost across AWS/GCP/Azure cloud environments.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 20 : 
+Experience in full life cycle development in any programming language on a Linux platform and building highly scalable business applications, which involve implementing large complex business flows and dealing with a huge amount of data.
+Strong desire for solving complex and interesting real-world problems.
+Go-getter attitude that reflects in energy and intent behind assigned tasks
+An open communicator who shares thoughts and opinions frequently listens intently and takes constructive feedback.
+Ability to drive the design and architecture of multiple subsystems.
+Ability to break-down larger/fuzzier problems into smaller ones in the scope of the product
+Understanding of the industry’s coding standards and an ability to create appropriate technical documentation.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 21 : 
+A solid grounding in Computer Science fundamentals (based on a BS or MS in CS or related field)
+Excellent Object Orientation, coupled with excellent problem solving and debugging skills.
+Highly skilled at Java and related technologies, including Java Frameworks like SpringBoot or Dropwizard, RESTful web services, JSON, Servlet, JSP, MySQL,MongoDB, Kafka,AWS etc.
+Must have hands-on experience on building scalable and secure backend systems.
+Should have working knowledge of DevOps concepts like Continuous Deployment,
+Jenkins, Kubernetes and deployment on AWS.
+Good understanding of one of the JavaScript libraries and frameworks such as ReactJS, AngularJS etc will be an added advantage.
+Well versed in software engineering principles, frameworks and technologies
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 22 : 
+Responsibilities:
+
+
+Develop and maintain Java-based applications.
+Build user interfaces using HTML integrated with backend services.
+Collaborate with cross-functional teams.
+Debug and resolve application issues.
+
+Required Skills:
+
+
+Strong Core Java knowledge.
+Good understanding of HTML.
+Familiarity with REST APIs, databases (SQL), and Git.
+
+Preferred Skills:
+
+
+Exposure to Spring/Spring Boot, Hibernate.
+Basic knowledge of JavaScript and CSS.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 23 : 
+Apply if you are:
+
+Enthusiastic about architecting expensive framework using deep functional programming languages
+nterested to solve reliability & performance problems which occur with large scale
+Passionate about developing low code & no code platforms whiten a framework to streamline & accelerate application development
+Empowered to incorporate self service, features in application development, enabling end users to efficiently modify and customize their applications as needed
+Excited about managing merchants (big & small) with zero issues
+What’s in it for you?
+
+Welcome to Day0!
+
+You will hit the ground running with the focus on mission-critical projects & the development of the next generation frameworks
+Working on challenging problems which will put you to your best
+Dive into a development journey anchored in first principles thinking & progress into a skilled system architect, inspired by the growth of our
+DUI/Hyper SDK team
+Learn from the best, unleashing your potential for ten fold growth
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 24 : 
+Key Responsibilities:
 
+
+Design and implement scalable back-end systems, ensuring high performance and responsiveness.
+Integrate front-end components with server-side logic.
+Build and optimize data pipelines for data processing using machine learning.
+
+Required Skills & Qualifications:
+
+
+5+ years of experience as a Python Developer (Graduated in 2019 or earlier)
+Mandatory Skills: Azure Python SDK, Django, Redis Vector DB, PyPDF
+Strong in Python, ORM, SQL/NoSQL databases
+Proficient with Git, server-side templating, and cloud platforms (AWS/GCP/Azure)
+Knowledge of Pandas, NumPy, PyTorch, or Scikit-learn is a plus
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 25 : 
-
+Confidently ship moderate/large features and improvements with minimal guidance and support from other team members. Collaborate with the team on larger projects
+Modeling and executing against requirements involving complex and interdependent systems
+Taking ambiguous technical problem statements and turning them into an actionable plan, and then executing on it with the team
+Implement comprehensive unit tests for confirming functionality and the quality of code. Ensure high-quality code and related documentation.
+Build relationships with teams across engineering, ops, and support, to understand their needs and help improve their day-to-day workflows
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 26 : 
-
+3-5 years of professional work experience
+Experience building a large-scale platform for web
+Knowledge of building services with Python is a plus
+Strong CS knowledge
+Bonus points if you’ve built a front-end web app
+Tech stack you will be working on: Python, Django, MongoDB
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 27 : 
-
+Design, develop, and maintain efficient, reusable, and reliable Node.js based applications and APIs.
+Write clean, well-documented, and testable code following best practices.
+Integrate user-facing elements developed by front-end developers with server-side logic.
+Connect applications to back-end data sources and APIs (RESTful, GraphQL).
+Develop and maintain databases (both relational and NoSQL) and ensure data integrity.
+Implement security measures and data protection.
+Participate in code reviews to ensure code quality.
+Troubleshoot, debug, and optimize application performance.
+Stay up-to-date with relevant technologies in the Node.js ecosystem.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 28 : 
-
+Bachelor's degree in Computer Science, Engineering, or a related field (or equivalent experience).
+Proven experience of 2-5 years in developing server-side applications using Node.js.
+Strong proficiency in JavaScript (ES6+).
+Experience working with popular Node.js frameworks such as Express.js and NestJS
+Experience with database design and development using both relational databases (e.g., PostgreSQL, MySQL) and NoSQL databases (e.g., MongoDB, Redis).
+Proficiency in designing and implementing RESTful APIs and/or GraphQL APIs.
+Experience with version control systems, particularly Git.
+Familiarity with testing frameworks (e.g., Jest, Mocha, Chai).
+Experience with cloud platforms like AWS, Azure, or GCP would be beneficial
+Experience with containerization technologies like Docker
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 29 : 
-
+Job Requirements
+Strong problem-solving and analytical skills.
+Good communication and collaboration skills.
+Knowledge of front-end technologies like React, Angular, or Vue.js.
+Experience with message queues (e.g., Kafka, RabbitMQ).
+Understanding of basic security practices for web applications.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 30 : 
-
+Analyzes, designs, programs, debugs and modifies software enhancements and/or new products used in local, networked or Internet-related computer programs. (Code must be used in core version of applications available for sale commercially.)
+Interacts with product managers and/or users to define system requirements and/or necessary modifications.
+Participates in software design meetings and analyzes user needs to determine technical requirements.
+Write technical specifications based on conceptual design and stated business requirements.
+Writes code, completes programming and performs testing and debugging of applications using current programming languages and technologies.
+Completes documentation and procedures for installation and maintenance.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 31 : 
-
+Integrating automated tests into CI/CD pipelines for continuous quality validation.
+Providing test automation support for cross-browser and cross-device compatibility to
+ensure a consistent experience across platforms.
+Collaborating on integrating new tools or functionality into existing frameworks.
+Working with developers to resolve issues.
+Driving continuous Improvement as an advocate for tools, processes, and methodologies
+that enhance quality practices.
+Remaining updated with emerging trends in fintech, such as AI-driven testing or blockchain
+validation.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 32 : 
+Qualifications:
 
+· Minimum 3 years of work experience in backend development & building scalable products
+
+· Work on category-creating, possibly disruptive, fintech products in the early stages.
+
+· Design and develop highly scalable and reliable systems end-to-end.
+
+· Directly work with the CTO and Founders, and be a part of the product strategy.
+
+· Self-Starter; Will be working alongside other engineers and developers, collaborating on the various layers of the infrastructure for our products built in-house.
+
+· Someone proficient in MongoDB
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 33 : 
-
+ Expert knowledge of computer science, with strong competencies in data structures, algorithms, and software design.
+· Familiarity with Agile development, continuous integration, and modern testing methodologies.
+· Familiarity with working with REST APIs
+· Think out of the box while solving problems, considering the scale and changing environment variables.
+· Quickly learn and contribute to changing the technical stack
+· Bonus Points- Working knowledge of SQL database for a product at scale and AWS.
+· Interest (and/or experience) in the financial/stock market space - interest trumps experience!
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 34 : 
-
+Management activities like Incident, change and release activities.
+Application Deployment/Product Upgrade.
+Implement SSO with application.
+Follow up on defect and incident closure and meet incident.
+Monitoring alerts, have proactive approach and propose solutions.
+Execute SQL queries, handle database and windows servers.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 35 : 
+We are currently recruiting a Tech Support Engineer. 
+This Application Operations role involves ensuring the smooth functioning of software applications within the organization. 
+The role requires an understanding of wires and real-time payment processing through the US banking system. The ideal candidate should have expertise in MS SQL Management Server, Windows Server Administration, and Certificate Deployments. Key responsibilities include executing SQL queries and handling databases and Windows servers.
 
+What you will do:
+Excellent communication and collaboration abilities.
+Knowledge of application monitoring tools and techniques.
+Familiarity with automation tools and scripting languages.
+Understanding of ITIL processes and best practices.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 36 : 
+Job Overview:
+We’re looking for a highly skilled Senior Software Engineer with deep experience in fintech application development and third-party API integration. In this role, you will:
 
+Integrate third-party APIs (DMT, AEPS) into our core fintech systems.
+Design and implement middleware APIs for utility recharge and related services.
+Collaborate with cross-functional teams to architect scalable, secure, and high-performance applications.
+Ensure compliance with financial data regulations and security protocols.
+Mentor junior developers and contribute to continuous improvement in development practices.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 37 : 
-
+Develop and maintain web applications using CodeIgniter and Laravel frameworks.
+Work with PHP, MySQL, HTML, CSS, JavaScript to build and enhance fintech features.
+Integrate and troubleshoot external APIs (especially DMT, AEPS).
+Create middleware APIs to connect internal services with external providers.
+Write clean, well-documented, and efficient code.
+Participate in code reviews, architectural discussions, and technical planning.
+Collaborate with QA, DevOps, and business teams to ensure reliable product delivery.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 38 : 
-
+Bachelor’s degree in Computer Science, Engineering, or a related field.
+3+ years of professional experience in backend and full-stack development.
+Proven experience with CodeIgniter and Laravel.
+Strong skills in PHP, MySQL, HTML, CSS, and JavaScript.
+Experience integrating financial APIs such as DMT and AEPS.
+Familiarity with fintech systems, payment gateways, and compliance standards.
+Strong problem-solving abilities and attention to detail.
+Excellent communication and teamwork skills.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 39 : 
-
+Build Robust and scalable web-based applications. You will need to think of platforms & reuse.
+Build abstractions and contracts with separation of concerns for a larger scope.
+Drive problem-solving skills for high-level business and technical problems.
+Do high-level design with guidance; Functional modelling, break-down of a module.
+Do incremental changes to architecture: impact analysis of the same.
+Do performance tuning and improvements in large scale distributed systems.
+Mentor young minds and foster team spirit, break down execution into phases to bring predictability to overall execution.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 40 : 
 
