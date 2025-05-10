@@ -462,18 +462,58 @@ Do performance tuning and improvements in large scale distributed systems.
 Mentor young minds and foster team spirit, break down execution into phases to bring predictability to overall execution.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 40 : 
-
+4+ years of experience in the art of writing code and solving problems on a Large Scale (FinTech experience preferred).
+B.Tech, M.Tech, or Ph.D. in Computer Science or related technical discipline (or equivalent).
+Excellent coding skills – should be able to convert the design into code fluently. 
+Experience in at least one general programming language (e.g. Java, C, C++) & tech stack to write maintainable, scalable, unit-tested code.
+Experience with multi-threading, concurrency programming, 
+object-oriented design skills, knowledge of design patterns, and huge passion and ability to design intuitive modules, class-level interfaces and knowledge of Test driven development.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 41 : 
-
+Good understanding of databases (e.g. MySQL) and NoSQL (e.g. HBase etc).
+Experience in full life cycle development in any programming language on a Linux platform and building highly scalable business applications, which involve implementing large complex business flows and dealing with a huge amount of data.
+Strong desire for solving complex and interesting real-world problems.
+Go-getter attitude that reflects in energy and intent behind assigned tasks
+An open communicator who shares thoughts and opinions frequently listens intently and takes constructive feedback.
+Ability to drive the design and architecture of multiple subsystems.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 42 : 
+Work closely with product team to understand the requirements from business perspective
+Core delivery to Execute automated and functional test cases, review test results and report defects.
+Coordinate with Product and QA teams to ensure the specifications are implemented in Gherkin format and thus easier implementation to BDD automation framework.
+Design and write maintainable automated feature scripts using Java, Cucumber/Gherkin, and functional manual tests.
+Writing SQL queries
+Maintenance of UI automation tests for a complex web/mobile/standalone application in a timely fashion
+Maintenance of backend automation framework and tests
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 43 : 
+Must have hands-on experience on building scalable and secure backend systems.
 
+Should have working knowledge of DevOps concepts like Continuous Deployment,
+Jenkins, Kubernetes and deployment on AWS.
+
+Good understanding of one of the JavaScript libraries and frameworks such as ReactJS, AngularJS etc will be an added advantage.
+
+Well versed in software engineering principles, frameworks and technologies
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 44 : 
-
+Develop, fine-tune, and deploy AI/ML models and LLM-based applications for real-world use cases.
+Build and optimize retrieval-augmented generation (RAG) systems using Vector Databases (e.g., ChromaDB, Pinecone, FAISS).
+Work on LLM fine-tuning, embeddings, and prompt engineering to enhance model performance.
+Develop end-to-end AI solutions with APIs using FastAPI, Flask, or similar frameworks.
+Build and maintain scalable data pipelines for training and inferencing AI models.
+Deploy and manage models using MLOps best practices on AWS or Azure.
+Optimize AI model performance for low-latency inference and scalability.
+Collaborate with cross-functional teams (Product, Engineering, Data Science) to integrate AI capabilities into applications.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 45 : 
+Graduate with a master's degree in Computer Science or related fields.
+At least 4-year professional experience as a Data Engineer/Software Engineer or similar engineering roles.
+Great passion for data engineering and related technologies.
+Strong programming skills with a minimum of 4 years of experience in Python.
+Strong hands-on skills and comfortable with Linux/Unix systems and CLIs.
+Experience wrangling and validating structured and unstructured data.
+Experience with code reviews and technical mentoring of more junior engineers.
+Problem solving and results-driven attitude and autonomous spirit for getting things done.
+Fluency in English.
