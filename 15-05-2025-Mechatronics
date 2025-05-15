@@ -8,36 +8,111 @@ RoadMap 2 :
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 1 : 
+Job Summary:
 
+Design and develop complete robotic systems using ROS/ROS2 frameworks.
+Implement advanced navigation, SLAM, path planning, and manipulation algorithms.
+Integrate sensors (LiDAR, IMU, Cameras) and actuators with real-time ROS nodes.
+Develop custom ROS packages in C++/Python and maintain clean code repositories.
+Lead system architecture design and cross-functional team collaboration.
+Perform performance optimization and deployment of robots in real-world environments.
+Mentor junior engineers and review technical documentation.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 2 : 
+We are looking for a passionate Mechatronics Engineer with a strong interest or experience in Robotics Operating System (ROS). The ideal candidate will work on the design, development, integration, and testing of robotic systems used in various applications including automation, agriculture, manufacturing, and service robots.
 
+Educational Qualifications:
+
+Bachelor’s or Master’s degree in Mechatronics, Robotics, Mechanical Engineering,
+Required Skills:
+
+· hands-on experience in ROS/ROS2 development.
+
+· Experience with robotic simulators (Gazebo, Webots, Isaac Sim).
+
+· Knowledge of computer vision libraries (OpenCV, PCL) and AI integration.
+
+· Real-time control experience (RTOS, CAN, EtherCAT).
+
+· Experience in industrial or field robotics applications.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 3 : 
+Designation: Trainee Engineers
+Experience: Up to 1 years
+Age Group: Max 28 years
+Qualification: B.E Mechanical, Industrial Production, Mechatronics, Aerospace Engg.
+No of positions: 04
 
+Skill Sets requirements
+
+Freshers from any reputed institute or up to 1 years of experience in production, quality or new product development.
+Good in oral and written communication skills.
+Ready to take training in machines for hands on experience.
+Strong knowledge of engineering and technical basics.
+Willing to work in round the clock as per series of shifts.
+Should be a fast learner, self-motivated and goal oriented.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 4 : 
+Job Requirements:
+Design electromechanical systems and components using CAD tools.
 
+Collaborate with mechanical and electronics teams for system integration.
+
+Perform simulations and prototyping of robotic systems.
+
+Select sensors, actuators, and microcontrollers for product development.
+
+Required: SolidWorks, AutoCAD, MATLAB, Arduino, Embedded C.
 
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 5 : 
-
+Design robotic manipulators and end-effectors.
+Program robot arms using ROS and Python/C++.
+Integrate machine vision systems for object detection and tracking.
+Required: OpenCV, Python, C++
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 6 : 
-
+Bachelor's degree in Mechanical, Automotive or Mechatronics Engineering.
+Strong knowledge of heat and mass transfer concepts.
+Fundamentals in material science and manufacturing processes for metals and plastics.
+Knowledge of 3D and 2D development tools such as CATIA or CREO is an advantage.
+Able to analyze complex issues and propose effective solutions is important.
+Strong communication and interpersonal skills.
+Ability to work independently and as part of a team.
+Passion for automotive industry and a strong desire to learn and grow.
+A mindset to innovate with a purpose and a keen sense of customer requirements.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 7 : 
+Required Qualifications:
 
+B.E./B.Tech in Mechanical, Electrical, Electronics, Automobile, Mechatronics, or related disciplines (2024/2025 pass-outs preferred).
+Strong academic record and basic understanding of engineering fundamentals.
+Familiarity with engineering tools such as AutoCAD etc.
+Good analytical, communication, and teamwork skills.
+Desirable Attributes:
+
+Internship experience in manufacturing, R&D, or OEM setup.
+Exposure to Six Sigma, Lean principles, or ISO standards is an advantage.
+Eagerness to learn and grow in a fast-paced, technology-driven environment.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 8 : 
-
-
+5+ years of experience in ECU HIL validation
+Good Understanding of System functions related to Body Electronics
+Graduate/Post Graduate in Electronics/Electrical/Mechatronics/Instrumentation engineering
+- Should have good command on any of the body electronics functions. E.g. Wiper system, sunroof, door control, keyless go, locking system, exterior light, interior lights, seat control system etc. 
+(Any of these system) - Should be able to imagine different testing scenarios and write test cases by understanding the system requirements
+Good experience in bringing automation in testing projects
+Should have Good analytical and problem solving skills
+Well-developed communication and teamwork skills
+Ability to handle multiple competing priorities in a fast-paced environment
+Outstanding personal initiative, sense of responsibility, commitment and perseverance
+Eager to learn and work with new technologies
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 9 : 
 
@@ -137,31 +212,95 @@ Job description 35 :
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 36 : 
+Lead and manage product or subsystem development projects from concept to production.
+Drive innovation and technology development aligned with product roadmap and business strategy.
+Collaborate with design, simulation, testing, manufacturing, and quality teams for design feasibility, prototyping, and validation.
+Conduct benchmarking, reverse engineering, and technology scouting.
+Oversee detailed design, tolerance stack-up, GD&T, and engineering documentation.
+Analyze test data, lead design iterations, and approve final product release.
+Ensure projects meet quality, cost, and timing (QCT) targets.
+Support patent filings, technical dossiers, and regulatory submissions.
+Train and mentor junior engineers in design tools, processes, and standards
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 37 : 
+Execute a variety of reliability tests for internal combustion engines, including Durability, Function, Strength, and Friction
+Testing data analysis, result compilation, report preparation and presentations
+Analysis and resolution of quality issues.
+Execution of advance projects and studies for improving quality & reliability of engines.
+Summarization of findings along with objective evaluation of counter-measure effectiveness.
+Develop and implement improvements to testing processes and procedures
+Working in dynamic team for coordination with Engine testing, vehicle testing, production, supply chain, quality etc
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 38 : 
+Software engineering, involving feature breakdown, task specification, programming, testing, documentation, source code management, deployment, and issue tracking.
+Web-based HMI development using our design language.
+Collaborating closely with our UX designers to enhance user experiences.
+Establishing global automation standards for the platforms we use through cross-site collaboration.
+Working in Sprints as a part of a self-organizing team, contributing to the evolution of our products.
+Maintain previous released software.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 39 : 
+5+ years of experience in ECU HIL validation
+Good Understanding of System functions related to Body Electronics
+Graduate/Post Graduate in Electronics/Electrical/Mechatronics/Instrumentation engineering
+- Should have good command on any of the body electronics functions. E.g. Wiper system, sunroof, door control, keyless go, locking system, exterior light, interior lights, seat control system etc. 
+(Any of these system) - Should be able to imagine different testing scenarios and write test cases by understanding the system requirements
+Good experience in bringing automation in testing projects
+Should have Good analytical and problem solving skills
+Well-developed communication and teamwork skills
+Ability to handle multiple competing priorities in a fast-paced environment
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 40 : 
+Integrate vision systems with robotics for object recognition.
+Optimize lighting, lenses, and vision algorithms.
+Required: OpenCV, Python/C++, Lighting Design.
+Develop mechatronic systems for underwater vehicles or ships.
+Work on waterproof housings, pressure sensors, and control systems.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 41 : 
+Design autonomous tractors and automated irrigation systems.
+Work on GPS navigation and sensor-based automation.
+Commission and troubleshoot automated production lines.
+Ensure minimal downtime through predictive maintenance.
+Required: Siemens TIA Portal, SCADA, IIoT, MES systems.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 42 : 
-
+Work on MVPs combining mechanics, electronics, and code.
+Prototype fast, fail fast, and iterate.
+Required: Rapid Prototyping, Breadboarding, Embedded Linux, Business Mindset.
+Build and maintain 3D printers including firmware and hardware.
+Calibrate motors, extruders, and temperature control systems.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 43 : 
+Develop automated biomedical devices like infusion pumps and prosthetics.
+Collaborate with biologists and medical professionals.
+Design electronic control units (ECUs) and embedded systems for EVs.
+Integrate drive-by-wire systems and battery management systems.
+Develop intelligent mechatronic systems integrating ML algorithms.
+Work on predictive maintenance and AI-driven robotics.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 44 : 
+Job Requirements:
+Oversee end-to-end mechatronic system development and integration.
+Conduct system-level testing and debugging.
+Interface hardware with real-time embedded software.
+Implement automation in industrial production lines.
+Maintain and troubleshoot CNC machines, sensors, and actuators.
+Design HMI interfaces for machine control.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Job description 45 : 
+Design electronic control units (ECUs) and embedded systems for EVs.
+Integrate drive-by-wire systems and battery management systems.
+Lead prototyping and testing of consumer products.
+Integrate motors, control circuits, and embedded systems into designs.
+Required: DFMEA, DVP&R, Embedded C, Prototyping tools.
